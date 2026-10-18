@@ -21,9 +21,15 @@ Resultados finais são complementados ao executar os checks. Esta tarefa não av
 - Áudio final e sua pronúncia/ritmo/loudness/sincronismo não se aplicam à infraestrutura e permanecem pendentes por episódio. Não há QA de áudio aprovado para produção.
 - Os testes não provam qualidade narrativa, verdade dos fatos, continuidade em todos os planos ou direitos dos anexos.
 - Skills: YAML/referências passaram; descoberta ativa no serviço Codex não foi confirmada por falha de inicialização em filesystem somente de leitura. Consultar automacao.md.
-- Workflow CI preparado; execução remota registrada após criação do PR, se disponível. Testes locais executados não são apresentados como resultado do GitHub Actions.
+- GitHub Actions executado com sucesso no PR #1, commit de código 2e4e062: https://github.com/suportpixelrise-ui/VIDEOIA/actions/runs/39152177246 . Checkout limpo, npm ci, Python QA, Skills, catálogo, 24 testes, lint/TypeScript e bundle passaram. Não houve render completo no CI. Alterações posteriores apenas neste relatório e no registro GitHub não mudam o código testado.
 - Publicação de ambiente e restauração em nova tarefa não foram testadas. Nenhum merge, deploy, agendamento, release ou publicação em rede social.
 
 ## Repetir
 
 No app: `npm run fp:doctor`, `npm run fp:skills:validate`, `npm run fp:assets:validate`, `npm run fp:test`, `npm run lint`, `npm run build`. Para imagens, `npm run fp:stills -- out/fp-qa/DESTINO-NOVO`. Para Studio já ativo: `npm run fp:check:studio` (porta 3000). Não repetir exportação de vídeos históricos como teste de infraestrutura.
+
+## Versionamento e ambiente
+
+Snapshot anterior autorizado: commit 1a1c82a, branch preserve/fp-existing-project. Infraestrutura: commit 2e4e062, branch feat/fp-production-base. PR em rascunho: https://github.com/suportpixelrise-ui/VIDEOIA/pull/1 ; base é a branch de preservação porque o remoto estava vazio. Main não criada/alterada; sem merge.
+
+Instruções completas de inicialização (start_skill) salvas como rascunho confirmado do ambiente. Não alteraram rede, secrets ou dependências instaladas. Para aplicar em futuras sessões, revisar/salvar nas configurações e publicar o ambiente. Publicação e restauração continuam não verificadas.
