@@ -1,0 +1,454 @@
+[
+  {
+    "arquivo": "Biblia-Visual-3000px.jpg",
+    "bytes": 4864064
+  },
+  {
+    "arquivo": "indice.html",
+    "bytes": 1717
+  },
+  {
+    "arquivo": "LEIA-ME.md",
+    "bytes": 1795
+  },
+  {
+    "arquivo": "manifesto.json",
+    "bytes": 8637
+  },
+  {
+    "arquivo": "PROMPT-PRODUCAO.md",
+    "bytes": 1488
+  },
+  {
+    "arquivo": "acoes/atlas.webp",
+    "bytes": 248824
+  },
+  {
+    "arquivo": "acoes/p1_01.webp",
+    "bytes": 13156
+  },
+  {
+    "arquivo": "acoes/p1_02.webp",
+    "bytes": 11482
+  },
+  {
+    "arquivo": "acoes/p1_03.webp",
+    "bytes": 14602
+  },
+  {
+    "arquivo": "acoes/p1_04.webp",
+    "bytes": 14070
+  },
+  {
+    "arquivo": "acoes/p1_05.webp",
+    "bytes": 12314
+  },
+  {
+    "arquivo": "acoes/p1_06.webp",
+    "bytes": 12902
+  },
+  {
+    "arquivo": "acoes/p1_07.webp",
+    "bytes": 11022
+  },
+  {
+    "arquivo": "acoes/p1_08.webp",
+    "bytes": 13164
+  },
+  {
+    "arquivo": "acoes/p1_09.webp",
+    "bytes": 13634
+  },
+  {
+    "arquivo": "acoes/p1_10.webp",
+    "bytes": 15466
+  },
+  {
+    "arquivo": "acoes/p2_01.webp",
+    "bytes": 10506
+  },
+  {
+    "arquivo": "acoes/p2_02.webp",
+    "bytes": 8696
+  },
+  {
+    "arquivo": "acoes/p2_03.webp",
+    "bytes": 12234
+  },
+  {
+    "arquivo": "acoes/p2_04.webp",
+    "bytes": 10098
+  },
+  {
+    "arquivo": "acoes/p2_05.webp",
+    "bytes": 9490
+  },
+  {
+    "arquivo": "acoes/p2_06.webp",
+    "bytes": 8564
+  },
+  {
+    "arquivo": "acoes/p2_07.webp",
+    "bytes": 8584
+  },
+  {
+    "arquivo": "acoes/p2_08.webp",
+    "bytes": 9154
+  },
+  {
+    "arquivo": "acoes/p2_09.webp",
+    "bytes": 10850
+  },
+  {
+    "arquivo": "acoes/p2_10.webp",
+    "bytes": 11818
+  },
+  {
+    "arquivo": "biblioteca-base/LEIA-ME.md",
+    "bytes": 3113
+  },
+  {
+    "arquivo": "biblioteca-base/manifesto.json",
+    "bytes": 8237
+  },
+  {
+    "arquivo": "biblioteca-base/paleta.json",
+    "bytes": 144
+  },
+  {
+    "arquivo": "biblioteca-base/presets.json",
+    "bytes": 589
+  },
+  {
+    "arquivo": "biblioteca-base/PROMPT-MESTRE.md",
+    "bytes": 1604
+  },
+  {
+    "arquivo": "biblioteca-base/PROMPTS-GERACAO.txt",
+    "bytes": 827
+  },
+  {
+    "arquivo": "blocos/01.webp",
+    "bytes": 103742
+  },
+  {
+    "arquivo": "blocos/02.webp",
+    "bytes": 280662
+  },
+  {
+    "arquivo": "blocos/03.webp",
+    "bytes": 203870
+  },
+  {
+    "arquivo": "blocos/04.webp",
+    "bytes": 245372
+  },
+  {
+    "arquivo": "blocos/05.webp",
+    "bytes": 334652
+  },
+  {
+    "arquivo": "blocos/06.webp",
+    "bytes": 192570
+  },
+  {
+    "arquivo": "blocos/07.webp",
+    "bytes": 82294
+  },
+  {
+    "arquivo": "blocos/08.webp",
+    "bytes": 218106
+  },
+  {
+    "arquivo": "blocos/09.webp",
+    "bytes": 100778
+  },
+  {
+    "arquivo": "blocos/10.webp",
+    "bytes": 265890
+  },
+  {
+    "arquivo": "blocos/11.webp",
+    "bytes": 111570
+  },
+  {
+    "arquivo": "blocos/12.webp",
+    "bytes": 118062
+  },
+  {
+    "arquivo": "expressoes/atlas.webp",
+    "bytes": 404018
+  },
+  {
+    "arquivo": "expressoes/p1_01.webp",
+    "bytes": 22718
+  },
+  {
+    "arquivo": "expressoes/p1_02.webp",
+    "bytes": 22278
+  },
+  {
+    "arquivo": "expressoes/p1_03.webp",
+    "bytes": 23122
+  },
+  {
+    "arquivo": "expressoes/p1_04.webp",
+    "bytes": 22204
+  },
+  {
+    "arquivo": "expressoes/p1_05.webp",
+    "bytes": 22372
+  },
+  {
+    "arquivo": "expressoes/p1_06.webp",
+    "bytes": 23266
+  },
+  {
+    "arquivo": "expressoes/p1_07.webp",
+    "bytes": 22842
+  },
+  {
+    "arquivo": "expressoes/p1_08.webp",
+    "bytes": 23292
+  },
+  {
+    "arquivo": "expressoes/p1_09.webp",
+    "bytes": 22830
+  },
+  {
+    "arquivo": "expressoes/p1_10.webp",
+    "bytes": 22848
+  },
+  {
+    "arquivo": "expressoes/p2_01.webp",
+    "bytes": 15740
+  },
+  {
+    "arquivo": "expressoes/p2_02.webp",
+    "bytes": 16040
+  },
+  {
+    "arquivo": "expressoes/p2_03.webp",
+    "bytes": 15400
+  },
+  {
+    "arquivo": "expressoes/p2_04.webp",
+    "bytes": 15148
+  },
+  {
+    "arquivo": "expressoes/p2_05.webp",
+    "bytes": 16508
+  },
+  {
+    "arquivo": "expressoes/p2_06.webp",
+    "bytes": 12102
+  },
+  {
+    "arquivo": "expressoes/p2_07.webp",
+    "bytes": 14822
+  },
+  {
+    "arquivo": "expressoes/p2_08.webp",
+    "bytes": 13280
+  },
+  {
+    "arquivo": "expressoes/p2_09.webp",
+    "bytes": 12034
+  },
+  {
+    "arquivo": "expressoes/p2_10.webp",
+    "bytes": 12714
+  },
+  {
+    "arquivo": "storyboard/01.webp",
+    "bytes": 50520
+  },
+  {
+    "arquivo": "storyboard/02.webp",
+    "bytes": 46212
+  },
+  {
+    "arquivo": "storyboard/03.webp",
+    "bytes": 49292
+  },
+  {
+    "arquivo": "storyboard/04.webp",
+    "bytes": 44092
+  },
+  {
+    "arquivo": "storyboard/05.webp",
+    "bytes": 40202
+  },
+  {
+    "arquivo": "storyboard/06.webp",
+    "bytes": 46884
+  },
+  {
+    "arquivo": "storyboard/07.webp",
+    "bytes": 45252
+  },
+  {
+    "arquivo": "storyboard/08.webp",
+    "bytes": 47162
+  },
+  {
+    "arquivo": "storyboard/atlas.webp",
+    "bytes": 406008
+  },
+  {
+    "arquivo": "biblioteca-base/cenarios/cidade.webp",
+    "bytes": 63960
+  },
+  {
+    "arquivo": "biblioteca-base/cenarios/escritorio.webp",
+    "bytes": 59548
+  },
+  {
+    "arquivo": "biblioteca-base/cenarios/estudio_tecnologico.webp",
+    "bytes": 57106
+  },
+  {
+    "arquivo": "biblioteca-base/cenarios/garagem.webp",
+    "bytes": 60234
+  },
+  {
+    "arquivo": "biblioteca-base/cenarios/laboratorio.webp",
+    "bytes": 63198
+  },
+  {
+    "arquivo": "biblioteca-base/cenarios/quarto.webp",
+    "bytes": 51546
+  },
+  {
+    "arquivo": "biblioteca-base/exemplos/horizontal.webp",
+    "bytes": 71680
+  },
+  {
+    "arquivo": "biblioteca-base/exemplos/vertical.webp",
+    "bytes": 52458
+  },
+  {
+    "arquivo": "biblioteca-base/objetos/carro.webp",
+    "bytes": 31942
+  },
+  {
+    "arquivo": "biblioteca-base/objetos/celular.webp",
+    "bytes": 30396
+  },
+  {
+    "arquivo": "biblioteca-base/objetos/chip.webp",
+    "bytes": 74056
+  },
+  {
+    "arquivo": "biblioteca-base/objetos/drone.webp",
+    "bytes": 42606
+  },
+  {
+    "arquivo": "biblioteca-base/objetos/holograma.webp",
+    "bytes": 70992
+  },
+  {
+    "arquivo": "biblioteca-base/objetos/notebook.webp",
+    "bytes": 36026
+  },
+  {
+    "arquivo": "biblioteca-base/objetos/planta.webp",
+    "bytes": 59800
+  },
+  {
+    "arquivo": "biblioteca-base/objetos/robo.webp",
+    "bytes": 40678
+  },
+  {
+    "arquivo": "biblioteca-base/overlays/card.svg",
+    "bytes": 270
+  },
+  {
+    "arquivo": "biblioteca-base/overlays/hud.svg",
+    "bytes": 305
+  },
+  {
+    "arquivo": "biblioteca-base/overlays/lower_third.svg",
+    "bytes": 306
+  },
+  {
+    "arquivo": "biblioteca-base/overlays/moldura.svg",
+    "bytes": 214
+  },
+  {
+    "arquivo": "biblioteca-base/overlays/transicao_diagonal.svg",
+    "bytes": 233
+  },
+  {
+    "arquivo": "biblioteca-base/personagens/personagem_1_apresentando.webp",
+    "bytes": 38372
+  },
+  {
+    "arquivo": "biblioteca-base/personagens/personagem_1_entusiasmado.webp",
+    "bytes": 38470
+  },
+  {
+    "arquivo": "biblioteca-base/personagens/personagem_1_neutro.webp",
+    "bytes": 36028
+  },
+  {
+    "arquivo": "biblioteca-base/personagens/personagem_1_pensativo.webp",
+    "bytes": 34354
+  },
+  {
+    "arquivo": "biblioteca-base/personagens/personagem_2_apresentando.webp",
+    "bytes": 27784
+  },
+  {
+    "arquivo": "biblioteca-base/personagens/personagem_2_entusiasmado.webp",
+    "bytes": 29778
+  },
+  {
+    "arquivo": "biblioteca-base/personagens/personagem_2_neutro.webp",
+    "bytes": 27792
+  },
+  {
+    "arquivo": "biblioteca-base/personagens/personagem_2_pensativo.webp",
+    "bytes": 28560
+  },
+  {
+    "arquivo": "biblioteca-base/referencias/ficha_personagens.webp",
+    "bytes": 211216
+  },
+  {
+    "arquivo": "biblioteca-base/referencias/guia_visual.webp",
+    "bytes": 304254
+  },
+  {
+    "arquivo": "biblioteca-base/retratos/01.webp",
+    "bytes": 18858
+  },
+  {
+    "arquivo": "biblioteca-base/retratos/02.webp",
+    "bytes": 21020
+  },
+  {
+    "arquivo": "biblioteca-base/retratos/03.webp",
+    "bytes": 17560
+  },
+  {
+    "arquivo": "biblioteca-base/retratos/04.webp",
+    "bytes": 21286
+  },
+  {
+    "arquivo": "biblioteca-base/retratos/05.webp",
+    "bytes": 10670
+  },
+  {
+    "arquivo": "biblioteca-base/retratos/06.webp",
+    "bytes": 12734
+  },
+  {
+    "arquivo": "biblioteca-base/retratos/07.webp",
+    "bytes": 11400
+  },
+  {
+    "arquivo": "biblioteca-base/retratos/08.webp",
+    "bytes": 12658
+  }
+]

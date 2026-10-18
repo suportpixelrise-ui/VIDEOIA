@@ -1,0 +1,2 @@
+# Preserve attachment documentary bytes, including their original CRLF endings.
+futuro-pratico/references/futuro-pratico/documentos/** -text whitespace=blank-at-eol,blank-at-eof,space-before-tab,cr-at-eol

@@ -1,0 +1,12 @@
+# Bíblia visual Futuro Prático
+Entrega visual em 12 blocos, baseada nas duas referências fornecidas. A aparência “oficial” é uma direção de marca proposta para o projeto, não uma certificação externa.
+
+Abra indice.html para consultar os blocos com zoom ou Biblia-Visual-3000px.jpg para o painel completo em 3000 × 8100 px. O ZIP inclui a biblioteca base anterior, 20 expressões, 20 ações e 8 quadros de storyboard com atlas de referência.
+
+As ações e expressões novas têm fundo claro e não são sprites transparentes. As poses transparentes estão em biblioteca-base/personagens. Atlas podem apresentar pequenas variações de identidade e detalhes; usar a ficha original como critério de continuidade. As expressões são imagens independentes, não frames intermediários de animação. O storyboard é uma história fictícia e deve orientar ritmo e narrativa.
+
+Os blocos de câmera e transições são diagramas estáticos, não animações prontas. Os exemplos de enquadramento orientam função do plano; recortes finais devem ser decididos na composição vertical. O espaço de análise reutiliza o estúdio tecnológico. HUDs usam informação esquemática, não dados reais. As margens 1080 × 1920 são recomendações editoriais do projeto, não especificações garantidas de uma plataforma.
+
+Montserrat é sugerida e não distribuída. O painel usa Arial para manter legibilidade neste ambiente. Vídeo leve: 720 × 1280 a 24 fps como entrega vertical compacta; 1080 × 1920 é a tela de referência. A resolução dos assets não permite zoom ilimitado. O peso do vídeo só pode ser confirmado após exportação.
+
+No chat de produção, use PROMPT-PRODUCAO.md. Leia também os limites da biblioteca base. Preserve os originais em Downloads.

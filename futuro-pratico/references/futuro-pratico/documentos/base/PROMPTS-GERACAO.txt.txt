@@ -1,0 +1,6 @@
+Gerado com a ferramenta integrada image_gen, usando as duas imagens fornecidas como referências.
+
+Personagens: atlas transparente 4x2; mulher nas quatro poses neutra, apresentando, pensativa, entusiasmada; homem nas mesmas poses; preservar identidades e roupas; estilo ilustrado 2.5D.
+Cenários: atlas 2x3, painéis 16:9 sem personagens: escritório, quarto, laboratório, estúdio tecnológico, garagem com carro e cidade futurista ao pôr do sol.
+Objetos: atlas transparente 4x2: celular, notebook, robô, carro, drone, chip, holograma e planta. Paleta azul elétrico, grafite, bege e laranja. Sem texto, logos ou marcas d’água.
+Pós-processamento: divisão regular dos atlas, redimensionamento e codificação WebP, recortes de retratos e montagem de exemplos. Overlays SVG construídos como gráficos editáveis.

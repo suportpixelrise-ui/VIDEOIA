@@ -1,0 +1,33 @@
+name: Futuro Prático checks
+on:
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: fp-checks-${{ github.ref }}
+  cancel-in-progress: true
+jobs:
+  checks:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    defaults:
+      run:
+        working-directory: futuro-pratico
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: npm
+          cache-dependency-path: futuro-pratico/package-lock.json
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: npm ci
+      - run: python -m pip install -r scripts/futuro-pratico/requirements-qa.txt
+      - run: npm run fp:skills:validate
+      - run: npm run fp:assets:validate
+      - run: npm run fp:test
+      - run: npm run lint
+      - run: npm run build

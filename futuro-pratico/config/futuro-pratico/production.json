@@ -1,0 +1,26 @@
+{
+  "defaultPreset": "vertical-compact",
+  "referenceCanvas": { "width": 1080, "height": 1920 },
+  "safeMargins": { "left": 72, "right": 180, "top": 180, "bottom": 280 },
+  "font": {
+    "preferred": "Montserrat",
+    "localFallback": "Outfit",
+    "path": "fonts/Outfit.ttf",
+    "license": "public/fonts/OFL.txt"
+  },
+  "tts": {
+    "provider": null,
+    "voice": null,
+    "status": "not-configured",
+    "existingAdapter": "scripts/generate_narration.py (opt-in; verify service rights)"
+  },
+  "research": {
+    "provider": null,
+    "status": "requires configured research tools"
+  },
+  "storage": {
+    "exports": "out/episodes",
+    "retention": "local; no remote upload configured"
+  },
+  "maxAutomaticRecompressionAttempts": 0
+}

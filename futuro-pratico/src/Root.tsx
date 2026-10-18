@@ -1,3 +1,5 @@
+import { TechnicalCatalog } from "./futuro-pratico/compositions/Catalog";
+import { catalogTimeline } from "./futuro-pratico/compositions/Catalog";
 import roadsterPlan from "./teste03/plan.json";
 import { Roadster } from "./teste03/Roadster";
 import teste02Plan from "./teste02/plan.json";
@@ -12,6 +14,15 @@ import { Content } from "./scenes/Content";
 import { Closing } from "./scenes/Closing";
 export const RemotionRoot = () => (
   <>
+    <Composition
+      id="FPCatalogoTecnico"
+      component={TechnicalCatalog}
+      width={1080}
+      height={1920}
+      fps={24}
+      durationInFrames={catalogTimeline(24).durationInFrames}
+      defaultProps={{ debug: true }}
+    />
     <Composition
       id="FuturoPraticoRoadster"
       component={Roadster}

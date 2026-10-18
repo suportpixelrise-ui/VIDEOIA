@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "id": "template",
+  "version": 1,
+  "topic": "PREENCHER",
+  "audience": "Público curioso sobre tecnologia",
+  "objective": "PREENCHER",
+  "format": "vertical",
+  "targetDurationSeconds": 10,
+  "fps": 24,
+  "preset": "vertical-compact",
+  "maxSizeMB": null,
+  "sources": [],
+  "script": "",
+  "narration": "",
+  "scenes": [
+    {
+      "id": "cena-01",
+      "function": "gancho",
+      "framing": "plano médio",
+      "action": "PREENCHER",
+      "character": "personagem_1",
+      "pose": "neutro",
+      "emotion": "curiosidade",
+      "assets": [
+        "personagens.personagem_1_neutro",
+        "cenarios.escritorio"
+      ],
+      "sourceIds": [],
+      "evidence": "fiction",
+      "layout": "solo",
+      "backgroundId": "cenarios.escritorio",
+      "objectId": "",
+      "title": "PREENCHER",
+      "screenText": "PREENCHER",
+      "durationSeconds": 10,
+      "transitionSeconds": 0
+    }
+  ],
+  "timelineUnit": "seconds",
+  "audio": {
+    "status": "not-configured",
+    "file": "",
+    "durationSeconds": 0,
+    "provider": "",
+    "voice": "",
+    "pronunciationNotes": "",
+    "rightsReviewed": false
+  },
+  "captions": {
+    "status": "pending",
+    "file": "",
+    "timingOrigin": "none"
+  },
+  "missingAssets": [],
+  "status": "brief",
+  "revisions": [],
+  "records": {},
+  "qa": {
+    "inputHash": "",
+    "reviewer": "",
+    "visual": false,
+    "audio": false,
+    "editorial": false,
+    "rights": false,
+    "notes": ""
+  }
+}

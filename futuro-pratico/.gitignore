@@ -9,3 +9,12 @@ out
 # Local Python compilation artifacts
 __pycache__/
 *.pyc
+
+# Untrusted import staging and local production state
+.fp-staging/
+.fp-local/
+*.zip
+.env.*
+!.env.example
+# Remotion default bundle destination
+build/

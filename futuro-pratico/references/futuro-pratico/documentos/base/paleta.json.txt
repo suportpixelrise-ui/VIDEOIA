@@ -1,0 +1,8 @@
+{
+  "preto": "#080810",
+  "azul": "#008CFF",
+  "branco": "#FFFFFF",
+  "grafite": "#3A3F4B",
+  "bege": "#F5E9DC",
+  "laranja": "#FF7A2E"
+}
