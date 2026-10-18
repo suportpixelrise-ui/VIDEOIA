@@ -1,0 +1,283 @@
+{
+  "assets": [
+    {
+      "arquivo": "personagens/personagem_1_neutro.webp",
+      "largura": 384,
+      "altura": 512,
+      "bytes": 36028,
+      "alpha": true,
+      "sha256": "56596118c25a52bd0c04a8056fd31b3047fd3d554c215d707bcb1c1a499c38f3"
+    },
+    {
+      "arquivo": "personagens/personagem_1_apresentando.webp",
+      "largura": 384,
+      "altura": 512,
+      "bytes": 38372,
+      "alpha": true,
+      "sha256": "288c3b487fc63a5a00480a54a226990c1df43525fbc305fbdaeafeff4eba3a50"
+    },
+    {
+      "arquivo": "personagens/personagem_1_pensativo.webp",
+      "largura": 384,
+      "altura": 512,
+      "bytes": 34354,
+      "alpha": true,
+      "sha256": "4c8cf5d153db6dc77e227bb96c1bfe4f6aee8e1a6edddf7a636c1d904495fea4"
+    },
+    {
+      "arquivo": "personagens/personagem_1_entusiasmado.webp",
+      "largura": 384,
+      "altura": 512,
+      "bytes": 38470,
+      "alpha": true,
+      "sha256": "f5cf07c543e9ecc061d668f3f50361effd2a07e02bf367a16ed53987c68f6f6f"
+    },
+    {
+      "arquivo": "personagens/personagem_2_neutro.webp",
+      "largura": 384,
+      "altura": 512,
+      "bytes": 27792,
+      "alpha": true,
+      "sha256": "5a7580778aeb2779e31e93eed5f408d41eced4c522ff377d3a82889f71819e1e"
+    },
+    {
+      "arquivo": "personagens/personagem_2_apresentando.webp",
+      "largura": 384,
+      "altura": 512,
+      "bytes": 27784,
+      "alpha": true,
+      "sha256": "f949b07cca4da2d29073bca910081ba358bb84813453853cab22f2bb7cf11120"
+    },
+    {
+      "arquivo": "personagens/personagem_2_pensativo.webp",
+      "largura": 384,
+      "altura": 512,
+      "bytes": 28560,
+      "alpha": true,
+      "sha256": "14d260fbecacd9cf1c1f4da8f004c60bb1d4bd30522118b06c46dfec016c185c"
+    },
+    {
+      "arquivo": "personagens/personagem_2_entusiasmado.webp",
+      "largura": 384,
+      "altura": 512,
+      "bytes": 29778,
+      "alpha": true,
+      "sha256": "65f282c8271210e08fd3f0b4315b87166637b03bc0d5eadcc4a63d49187dc9b3"
+    },
+    {
+      "arquivo": "retratos/01.webp",
+      "largura": 269,
+      "altura": 220,
+      "bytes": 18858,
+      "alpha": true,
+      "sha256": "afdbaa7bb26d5f3ed2ea4467bb0c4f6d490db0da688e373655c96402fac6ed73"
+    },
+    {
+      "arquivo": "retratos/02.webp",
+      "largura": 269,
+      "altura": 220,
+      "bytes": 21020,
+      "alpha": true,
+      "sha256": "bb13fb27df226938e35c6fc747d1b7028e4185ad5e65496efdafdffa2341bf06"
+    },
+    {
+      "arquivo": "retratos/03.webp",
+      "largura": 269,
+      "altura": 220,
+      "bytes": 17560,
+      "alpha": true,
+      "sha256": "89dbdcc214983218d1872f23e80e5bc0f25f2f7d827b75764298265aed5442d6"
+    },
+    {
+      "arquivo": "retratos/04.webp",
+      "largura": 269,
+      "altura": 220,
+      "bytes": 21286,
+      "alpha": true,
+      "sha256": "2e35ac6444889fee5ee34d0596e19f7f8aca08cc1b4d4174a1f3aacdb9ed1572"
+    },
+    {
+      "arquivo": "retratos/05.webp",
+      "largura": 269,
+      "altura": 220,
+      "bytes": 10670,
+      "alpha": true,
+      "sha256": "d9be65f76e263f712d654e402691f24c8a89c70e02527f9b7a58132284c2fd5e"
+    },
+    {
+      "arquivo": "retratos/06.webp",
+      "largura": 269,
+      "altura": 220,
+      "bytes": 12734,
+      "alpha": true,
+      "sha256": "6bd5874a67c080b32d95950377a7eb850609d37053a7e853deba7ef33052fe5b"
+    },
+    {
+      "arquivo": "retratos/07.webp",
+      "largura": 269,
+      "altura": 220,
+      "bytes": 11400,
+      "alpha": true,
+      "sha256": "8ba1c18af29136ba0f2528c50d56d8fe75a12a0845ddefb789221fea187d1bf1"
+    },
+    {
+      "arquivo": "retratos/08.webp",
+      "largura": 269,
+      "altura": 220,
+      "bytes": 12658,
+      "alpha": true,
+      "sha256": "3b4fcf1a9a225b070837bf419713963fdd8e99dcbd33736be2074c3ca6e73acd"
+    },
+    {
+      "arquivo": "cenarios/escritorio.webp",
+      "largura": 682,
+      "altura": 370,
+      "bytes": 59548,
+      "alpha": false,
+      "sha256": "df289741fe103ce1b8df0fcb5704aa2cd50ac8e721e8e8f4f0cb5aed5a6090c6"
+    },
+    {
+      "arquivo": "cenarios/quarto.webp",
+      "largura": 681,
+      "altura": 370,
+      "bytes": 51546,
+      "alpha": false,
+      "sha256": "c76ac2ac0c858eab13036433bc06e618a4585d39cd1742a7354ff61018d9a47c"
+    },
+    {
+      "arquivo": "cenarios/laboratorio.webp",
+      "largura": 682,
+      "altura": 369,
+      "bytes": 63198,
+      "alpha": false,
+      "sha256": "2987ab52655c97945db8e6ea3535ec735cb221adcac11a7800d20d4015b76a33"
+    },
+    {
+      "arquivo": "cenarios/estudio_tecnologico.webp",
+      "largura": 681,
+      "altura": 369,
+      "bytes": 57106,
+      "alpha": false,
+      "sha256": "8a1905f2c8fcbda7e140fb99b09154dde362a690d818e8758619c84ab8ca7d11"
+    },
+    {
+      "arquivo": "cenarios/garagem.webp",
+      "largura": 682,
+      "altura": 401,
+      "bytes": 60234,
+      "alpha": false,
+      "sha256": "4e5afa8602ccf3e60d9ce3c2fcffc140949475ec402ae936c3c46591d7158ed0"
+    },
+    {
+      "arquivo": "cenarios/cidade.webp",
+      "largura": 681,
+      "altura": 401,
+      "bytes": 63960,
+      "alpha": false,
+      "sha256": "6e077affc60ab0c6f1c762f419945ec969af52b007f377265a3472ec88157366"
+    },
+    {
+      "arquivo": "objetos/celular.webp",
+      "largura": 310,
+      "altura": 384,
+      "bytes": 30396,
+      "alpha": true,
+      "sha256": "915427d89aa26152f20ff336803c285cc4d65298791632ed23b8c0d3efff0a11"
+    },
+    {
+      "arquivo": "objetos/notebook.webp",
+      "largura": 384,
+      "altura": 293,
+      "bytes": 36026,
+      "alpha": true,
+      "sha256": "c625086996079544158fecd6176d3815d94f35fd3795493afe85d94107812ab7"
+    },
+    {
+      "arquivo": "objetos/robo.webp",
+      "largura": 287,
+      "altura": 384,
+      "bytes": 40678,
+      "alpha": true,
+      "sha256": "56c6e50ff0ca4d945b8ee3609b1196ec281f79eebb27ab0dc18038d71951741f"
+    },
+    {
+      "arquivo": "objetos/carro.webp",
+      "largura": 384,
+      "altura": 250,
+      "bytes": 31942,
+      "alpha": true,
+      "sha256": "d7b03974c300ac8469c9604ea0b800767069956801d7efa4680217584cd1ba6e"
+    },
+    {
+      "arquivo": "objetos/drone.webp",
+      "largura": 384,
+      "altura": 272,
+      "bytes": 42606,
+      "alpha": true,
+      "sha256": "a1dfd15f904b2f93d7afa6ca3dd72e129e30526bf0a9bfeb1d39f7b55509c7e6"
+    },
+    {
+      "arquivo": "objetos/chip.webp",
+      "largura": 384,
+      "altura": 377,
+      "bytes": 74056,
+      "alpha": true,
+      "sha256": "8caf430db940727671570607968d1a7bd1fc248fc4127d45badfa8a2434753dd"
+    },
+    {
+      "arquivo": "objetos/holograma.webp",
+      "largura": 338,
+      "altura": 384,
+      "bytes": 70992,
+      "alpha": true,
+      "sha256": "ff7a56ad1fc2aacf59e12303a7a5a849f4189328daf03e988d1a6f51ccaeb1ed"
+    },
+    {
+      "arquivo": "objetos/planta.webp",
+      "largura": 384,
+      "altura": 382,
+      "bytes": 59800,
+      "alpha": true,
+      "sha256": "d9676d502d426f69b9de81b5fb978fbb1fc8972d76102955c29404c50dc8bb30"
+    },
+    {
+      "arquivo": "referencias/guia_visual.webp",
+      "largura": 1448,
+      "altura": 1086,
+      "bytes": 304254,
+      "alpha": false,
+      "sha256": "888f34b69edc845da78afadbe5b4927b1ab2ca9df8d7a124c918cffe2134163e"
+    },
+    {
+      "arquivo": "referencias/ficha_personagens.webp",
+      "largura": 1448,
+      "altura": 1086,
+      "bytes": 211216,
+      "alpha": false,
+      "sha256": "057ca438da8794b0ab73b0be224e3aa0abe8f48fa49be6dc367282d1543b2da7"
+    },
+    {
+      "arquivo": "exemplos/horizontal.webp",
+      "largura": 960,
+      "altura": 540,
+      "bytes": 71680,
+      "alpha": false,
+      "sha256": "0be7cccddfd9f4b386727be86a3c02bcb0eec71229d9b25ab897f9d6b4c07bcf"
+    },
+    {
+      "arquivo": "exemplos/vertical.webp",
+      "largura": 540,
+      "altura": 960,
+      "bytes": 52458,
+      "alpha": false,
+      "sha256": "23f34e99d8f6e21358c2ac150f2ec6ebc6395bc00978452f731eb82204e909f8"
+    }
+  ],
+  "overlays": [
+    "overlays/card.svg",
+    "overlays/lower_third.svg",
+    "overlays/hud.svg",
+    "overlays/transicao_diagonal.svg",
+    "overlays/moldura.svg"
+  ]
+}

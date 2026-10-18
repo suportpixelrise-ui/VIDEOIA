@@ -1,0 +1,758 @@
+{
+  "baselineCommit": "1a1c82a",
+  "files": {
+    "README.md": {
+      "sha256Before": "b597e3e9a75a08875442e387c4071f9d405201a2465fa45a57e1bc0578ab675d",
+      "sha256Now": "b597e3e9a75a08875442e387c4071f9d405201a2465fa45a57e1bc0578ab675d",
+      "integrated": false
+    },
+    "futuro-pratico/.gitignore": {
+      "sha256Before": "73ee3d8f931defc626a82e3ba37bdf5d1af731e34bfd52972e0f9267ae56846d",
+      "sha256Now": "c6ec4930874269644d3cb5e1934e1fa99ca4abcaa334a02931870d1b42d6b1b3",
+      "integrated": true
+    },
+    "futuro-pratico/.prettierrc": {
+      "sha256Before": "10e86224d2f90945fbe57db21ac109bdb0ce9b5d7470e7b78fa5f8b6d49a1afd",
+      "sha256Now": "10e86224d2f90945fbe57db21ac109bdb0ce9b5d7470e7b78fa5f8b6d49a1afd",
+      "integrated": false
+    },
+    "futuro-pratico/README.md": {
+      "sha256Before": "c9e1d4c478066b34d094b70c6267e9b2784383586cea495012e47501ec16ae8d",
+      "sha256Now": "b56df241bd74930977be5aba044d2dbc21914f076e1345b2de105d8c664cce57",
+      "integrated": true
+    },
+    "futuro-pratico/V2-NARRACAO.md": {
+      "sha256Before": "834a5616a75ead2858cbc0c89e6155f30c51bf812833edb7b39ed01d4e0183e3",
+      "sha256Now": "834a5616a75ead2858cbc0c89e6155f30c51bf812833edb7b39ed01d4e0183e3",
+      "integrated": false
+    },
+    "futuro-pratico/eslint.config.mjs": {
+      "sha256Before": "7f2ca640409fd597965bedf929073b9a74f143643e1711150c4cac3b6ec5c80d",
+      "sha256Now": "7f2ca640409fd597965bedf929073b9a74f143643e1711150c4cac3b6ec5c80d",
+      "integrated": false
+    },
+    "futuro-pratico/package-lock.json": {
+      "sha256Before": "ee0edab91cc1966480110ba94b57ba40fd4d5e74f1fa03ca24b6c89c9397c37f",
+      "sha256Now": "ee0edab91cc1966480110ba94b57ba40fd4d5e74f1fa03ca24b6c89c9397c37f",
+      "integrated": false
+    },
+    "futuro-pratico/package.json": {
+      "sha256Before": "11104db1fcb167a64e5a97ad97c55bc30a1bca625f07185c5453f0fbfe668419",
+      "sha256Now": "fabf8a4456d2edd55e2ac56258d9ff43ca704c80fb8a2aca59a484567d722f81",
+      "integrated": true
+    },
+    "futuro-pratico/remotion.config.ts": {
+      "sha256Before": "12c8ec84146c40c7cb43251edd2e9d54f5048c9c15cffa3e5874f5572c6b8718",
+      "sha256Now": "12c8ec84146c40c7cb43251edd2e9d54f5048c9c15cffa3e5874f5572c6b8718",
+      "integrated": false
+    },
+    "futuro-pratico/tsconfig.json": {
+      "sha256Before": "74a0ab88578ed96b305119acc6131f9637eaf919f0f5d3fa704dc9d23b6f4f6e",
+      "sha256Now": "74a0ab88578ed96b305119acc6131f9637eaf919f0f5d3fa704dc9d23b6f4f6e",
+      "integrated": false
+    },
+    "futuro-pratico/public/futuro-original.wav": {
+      "sha256Before": "92771af670085031ace68fa91ea879962045c0bbd5290ac9c790aeb822c7906d",
+      "sha256Now": "92771af670085031ace68fa91ea879962045c0bbd5290ac9c790aeb822c7906d",
+      "integrated": false
+    },
+    "futuro-pratico/scripts/check-studio.cjs": {
+      "sha256Before": "cefec64161c42c9b4de3e2ad12913f89b0d94da43f802a8f81f2dcd53e1c0a07",
+      "sha256Now": "cefec64161c42c9b4de3e2ad12913f89b0d94da43f802a8f81f2dcd53e1c0a07",
+      "integrated": false
+    },
+    "futuro-pratico/scripts/generate_narration.py": {
+      "sha256Before": "6588fc2551c02484649ec993d3ad1fbfceabd45edbd0ff2c6c4b8613f1189c1e",
+      "sha256Now": "6588fc2551c02484649ec993d3ad1fbfceabd45edbd0ff2c6c4b8613f1189c1e",
+      "integrated": false
+    },
+    "futuro-pratico/scripts/make_audio.py": {
+      "sha256Before": "9ff1510942abb5c8b2e0060e58f631c064b83f71b8f26e9126b1ae465a46ad12",
+      "sha256Now": "9ff1510942abb5c8b2e0060e58f631c064b83f71b8f26e9126b1ae465a46ad12",
+      "integrated": false
+    },
+    "futuro-pratico/scripts/prepare_roadster.py": {
+      "sha256Before": "2153f8e5fba4dc0761bbcacd9dd2d7865797ff76ed145e3127961e4bcc719b19",
+      "sha256Now": "2153f8e5fba4dc0761bbcacd9dd2d7865797ff76ed145e3127961e4bcc719b19",
+      "integrated": false
+    },
+    "futuro-pratico/scripts/prepare_teste02.py": {
+      "sha256Before": "f220226f21b44040fc46bb1e1aa1f9152cf7c65323577d554e2f149e9215a8da",
+      "sha256Now": "f220226f21b44040fc46bb1e1aa1f9152cf7c65323577d554e2f149e9215a8da",
+      "integrated": false
+    },
+    "futuro-pratico/scripts/render-roadster.cjs": {
+      "sha256Before": "48ada25d431dd83b0acfb38f658f9dfefe79c18b3c7c5788ad7dba3aa87666cf",
+      "sha256Now": "48ada25d431dd83b0acfb38f658f9dfefe79c18b3c7c5788ad7dba3aa87666cf",
+      "integrated": false
+    },
+    "futuro-pratico/scripts/render-teste02.cjs": {
+      "sha256Before": "6c9578e0523ae82793158c7bfaf6347f55d21bd889e4286e1dbe1c3c8af4f972",
+      "sha256Now": "6c9578e0523ae82793158c7bfaf6347f55d21bd889e4286e1dbe1c3c8af4f972",
+      "integrated": false
+    },
+    "futuro-pratico/scripts/render-v2.cjs": {
+      "sha256Before": "16bee2c2d1ebd8baf64360c9833d74616d0cb45530f24bc532e086fb2f00ac93",
+      "sha256Now": "16bee2c2d1ebd8baf64360c9833d74616d0cb45530f24bc532e086fb2f00ac93",
+      "integrated": false
+    },
+    "futuro-pratico/scripts/requirements-tts.txt": {
+      "sha256Before": "21ce3fc41ddb4c666e0af7ecf2f624a2acc9f2b67eb65cd314fee584013e48b8",
+      "sha256Now": "21ce3fc41ddb4c666e0af7ecf2f624a2acc9f2b67eb65cd314fee584013e48b8",
+      "integrated": false
+    },
+    "futuro-pratico/scripts/validate_roadster.py": {
+      "sha256Before": "8386f2ae820190448ee40b6e2b5aa462dc5d476b0229207cd7e50cab72931ace",
+      "sha256Now": "8386f2ae820190448ee40b6e2b5aa462dc5d476b0229207cd7e50cab72931ace",
+      "integrated": false
+    },
+    "futuro-pratico/scripts/validate_teste02.py": {
+      "sha256Before": "5ac478d29e1293488b1158299894faa83121eb246515c2132ef3cf581769e5a1",
+      "sha256Now": "5ac478d29e1293488b1158299894faa83121eb246515c2132ef3cf581769e5a1",
+      "integrated": false
+    },
+    "futuro-pratico/src/Composition.tsx": {
+      "sha256Before": "cc97f106115e9e80d8cfba726f7c9893d5c0dd325c7a569dffc4a90d57088d6d",
+      "sha256Now": "cc97f106115e9e80d8cfba726f7c9893d5c0dd325c7a569dffc4a90d57088d6d",
+      "integrated": false
+    },
+    "futuro-pratico/src/Root.tsx": {
+      "sha256Before": "f5bc590f575113ed86a08643731fc8aca611ecd313517f6f0c496eda3bec3aa6",
+      "sha256Now": "b4dc696a9bf5878b3c58d3ed7acc9f5272a04cde2da0ae4e0e61c8cb489dfa1c",
+      "integrated": true
+    },
+    "futuro-pratico/src/design.tsx": {
+      "sha256Before": "ec058927d4f4651f8ced8bed5c0f4e116cd13f0ed0aa57ba1593943087ed056a",
+      "sha256Now": "ec058927d4f4651f8ced8bed5c0f4e116cd13f0ed0aa57ba1593943087ed056a",
+      "integrated": false
+    },
+    "futuro-pratico/src/index.ts": {
+      "sha256Before": "957e481dd33a29b4a55ae0e95dbf763b7e48c37c427ca4bd1275faf34bc07a74",
+      "sha256Now": "957e481dd33a29b4a55ae0e95dbf763b7e48c37c427ca4bd1275faf34bc07a74",
+      "integrated": false
+    },
+    "futuro-pratico/src/narration-plan.json": {
+      "sha256Before": "615b21f8e6d3aa24f63625c6346e6f1bc830b43cff37c45579d5b335070c8b65",
+      "sha256Now": "615b21f8e6d3aa24f63625c6346e6f1bc830b43cff37c45579d5b335070c8b65",
+      "integrated": false
+    },
+    "futuro-pratico/docs/teste-02/PESQUISA.md": {
+      "sha256Before": "02c5aa8f4eeb32f0b87edca2505d71217a716967f385ea92b8066a720efde9ca",
+      "sha256Now": "02c5aa8f4eeb32f0b87edca2505d71217a716967f385ea92b8066a720efde9ca",
+      "integrated": false
+    },
+    "futuro-pratico/docs/teste-02/README.md": {
+      "sha256Before": "41822e9e714282c8c301ee49ab78983345404e52844a3811860a76fac13c57ec",
+      "sha256Now": "41822e9e714282c8c301ee49ab78983345404e52844a3811860a76fac13c57ec",
+      "integrated": false
+    },
+    "futuro-pratico/docs/teste-02/ROTEIRO.json": {
+      "sha256Before": "b30649776a3d98a84722e0da75ec7c080a6c47f04a249ddda1921fe25b3c3b97",
+      "sha256Now": "b30649776a3d98a84722e0da75ec7c080a6c47f04a249ddda1921fe25b3c3b97",
+      "integrated": false
+    },
+    "futuro-pratico/docs/teste-02/ROTEIRO.md": {
+      "sha256Before": "01995c42cfdfc8338bc91f095504b569544c852a05b6d54ab6c5053d5bbcf063",
+      "sha256Now": "01995c42cfdfc8338bc91f095504b569544c852a05b6d54ab6c5053d5bbcf063",
+      "integrated": false
+    },
+    "futuro-pratico/docs/teste-02/TESTES.md": {
+      "sha256Before": "732f0482017c0b6ed5cfef2af4f2b4bf37d22e325a79b8afd4252377e8642219",
+      "sha256Now": "732f0482017c0b6ed5cfef2af4f2b4bf37d22e325a79b8afd4252377e8642219",
+      "integrated": false
+    },
+    "futuro-pratico/docs/teste-02/previous-videos-sha256.json": {
+      "sha256Before": "e75c93f507927e95cc69d5c09681e5a9f63473726ce5365bf0fd4d4e19f3b28c",
+      "sha256Now": "e75c93f507927e95cc69d5c09681e5a9f63473726ce5365bf0fd4d4e19f3b28c",
+      "integrated": false
+    },
+    "futuro-pratico/docs/teste-03/DIREITOS.md": {
+      "sha256Before": "3c31ea99e0ee309e40654ba8fd1b66d11a0f6380f708d80a79ef2b4fef668074",
+      "sha256Now": "3c31ea99e0ee309e40654ba8fd1b66d11a0f6380f708d80a79ef2b4fef668074",
+      "integrated": false
+    },
+    "futuro-pratico/docs/teste-03/FATOS-E-FONTES.md": {
+      "sha256Before": "cd4931bd2429ceb5b5fb8bedfc2789e092e2623681484c9022daa8fa90a77403",
+      "sha256Now": "cd4931bd2429ceb5b5fb8bedfc2789e092e2623681484c9022daa8fa90a77403",
+      "integrated": false
+    },
+    "futuro-pratico/docs/teste-03/README.md": {
+      "sha256Before": "4bfa79682ba3111e7186b19d7127cf3ca033705ba3ffc70e4b2906126a7a7805",
+      "sha256Now": "4bfa79682ba3111e7186b19d7127cf3ca033705ba3ffc70e4b2906126a7a7805",
+      "integrated": false
+    },
+    "futuro-pratico/docs/teste-03/ROTEIRO.json": {
+      "sha256Before": "2d52eace7c2e65d061ce9a1277e3760279a3e16599b55771b14d7acab9d32c16",
+      "sha256Now": "2d52eace7c2e65d061ce9a1277e3760279a3e16599b55771b14d7acab9d32c16",
+      "integrated": false
+    },
+    "futuro-pratico/docs/teste-03/ROTEIRO.md": {
+      "sha256Before": "0adf8793228766410de1665243377eb8bbfc97db2a98dfb4628f9b88ee6d08e7",
+      "sha256Now": "0adf8793228766410de1665243377eb8bbfc97db2a98dfb4628f9b88ee6d08e7",
+      "integrated": false
+    },
+    "futuro-pratico/docs/teste-03/TESTES.md": {
+      "sha256Before": "6891eebe822c4801735fbf330c65fc368b81a457b8a5f0474d08e2a5b6162009",
+      "sha256Now": "6891eebe822c4801735fbf330c65fc368b81a457b8a5f0474d08e2a5b6162009",
+      "integrated": false
+    },
+    "futuro-pratico/docs/teste-03/interior-license.json": {
+      "sha256Before": "82557c0f65ee13eefad1677e0ce4891fa8b67497d44e3bfb9da8a967c39ba3d2",
+      "sha256Now": "82557c0f65ee13eefad1677e0ce4891fa8b67497d44e3bfb9da8a967c39ba3d2",
+      "integrated": false
+    },
+    "futuro-pratico/docs/teste-03/photo-license.json": {
+      "sha256Before": "dceed27db7afec45ef9c2ac7c87e2d1cbe62fa0ca54a8b2f8d8fb14fcd775c33",
+      "sha256Now": "dceed27db7afec45ef9c2ac7c87e2d1cbe62fa0ca54a8b2f8d8fb14fcd775c33",
+      "integrated": false
+    },
+    "futuro-pratico/docs/teste-03/previous-videos-sha256.json": {
+      "sha256Before": "c0639911a1a80f1c8ab75f5fb71811073e2f2a518cc13160e2e5c545f10df8f5",
+      "sha256Now": "c0639911a1a80f1c8ab75f5fb71811073e2f2a518cc13160e2e5c545f10df8f5",
+      "integrated": false
+    },
+    "futuro-pratico/public/fonts/OFL.txt": {
+      "sha256Before": "c676351bf8576b9aba743cd5eaa8c0e7ee0d51f805d720447b4df4ddb6a2e416",
+      "sha256Now": "c676351bf8576b9aba743cd5eaa8c0e7ee0d51f805d720447b4df4ddb6a2e416",
+      "integrated": false
+    },
+    "futuro-pratico/public/fonts/Outfit.ttf": {
+      "sha256Before": "fc7287273e66929776e2ba54f144fe699080bec29f61bf649d70d871468aeade",
+      "sha256Now": "fc7287273e66929776e2ba54f144fe699080bec29f61bf649d70d871468aeade",
+      "integrated": false
+    },
+    "futuro-pratico/public/narracao/frase-01.json": {
+      "sha256Before": "a408fac1fac0c9e972208548c5f9faa5100c64c39a3c0cb0cf455e0c11db2a52",
+      "sha256Now": "a408fac1fac0c9e972208548c5f9faa5100c64c39a3c0cb0cf455e0c11db2a52",
+      "integrated": false
+    },
+    "futuro-pratico/public/narracao/frase-01.mp3": {
+      "sha256Before": "107d4f2776158ed4bcac7ad646862fe1abed652acb32c529a61a37165cc9fe27",
+      "sha256Now": "107d4f2776158ed4bcac7ad646862fe1abed652acb32c529a61a37165cc9fe27",
+      "integrated": false
+    },
+    "futuro-pratico/public/narracao/frase-02.json": {
+      "sha256Before": "2df32853eed19214838fdd3e7ef42f00c2329751a876b48b569cb18e955adb66",
+      "sha256Now": "2df32853eed19214838fdd3e7ef42f00c2329751a876b48b569cb18e955adb66",
+      "integrated": false
+    },
+    "futuro-pratico/public/narracao/frase-02.mp3": {
+      "sha256Before": "1421dc4fbc2d2de2663a15816a7f480e22d34cab012b745247db473de1c2525c",
+      "sha256Now": "1421dc4fbc2d2de2663a15816a7f480e22d34cab012b745247db473de1c2525c",
+      "integrated": false
+    },
+    "futuro-pratico/public/narracao/frase-03.json": {
+      "sha256Before": "59f8d0ff1c7d12eb3beef289fc9d5e519d8a19d048498711710a6a055c2abc49",
+      "sha256Now": "59f8d0ff1c7d12eb3beef289fc9d5e519d8a19d048498711710a6a055c2abc49",
+      "integrated": false
+    },
+    "futuro-pratico/public/narracao/frase-03.mp3": {
+      "sha256Before": "08281693191e84ccab591e814d2839860a8bd2c718489791ed6474ab60ecc130",
+      "sha256Now": "08281693191e84ccab591e814d2839860a8bd2c718489791ed6474ab60ecc130",
+      "integrated": false
+    },
+    "futuro-pratico/public/narracao/frase-04.json": {
+      "sha256Before": "180f723ffe0a028100e0671f0cb04cba9db3523ee788fb5532b3b4440a04b725",
+      "sha256Now": "180f723ffe0a028100e0671f0cb04cba9db3523ee788fb5532b3b4440a04b725",
+      "integrated": false
+    },
+    "futuro-pratico/public/narracao/frase-04.mp3": {
+      "sha256Before": "9d91ad66941951c211d9d7d546a5a30a2ee2f95956831fa50bab91cd16f4b523",
+      "sha256Now": "9d91ad66941951c211d9d7d546a5a30a2ee2f95956831fa50bab91cd16f4b523",
+      "integrated": false
+    },
+    "futuro-pratico/public/narracao/frase-05.json": {
+      "sha256Before": "ee1283f13dc066e76e5c2e47c890c73cdd4ed6ba470998ed0b12cefcf1fb17ea",
+      "sha256Now": "ee1283f13dc066e76e5c2e47c890c73cdd4ed6ba470998ed0b12cefcf1fb17ea",
+      "integrated": false
+    },
+    "futuro-pratico/public/narracao/frase-05.mp3": {
+      "sha256Before": "180aafc38ab0461b79889040d7b72c1130f7a525e2b1016c7d71b61a335f9c67",
+      "sha256Now": "180aafc38ab0461b79889040d7b72c1130f7a525e2b1016c7d71b61a335f9c67",
+      "integrated": false
+    },
+    "futuro-pratico/public/narracao/frase-06.json": {
+      "sha256Before": "09784d6c98f06936786465ad5254254228799436d93ce0a9ec00d75f5e5b0f86",
+      "sha256Now": "09784d6c98f06936786465ad5254254228799436d93ce0a9ec00d75f5e5b0f86",
+      "integrated": false
+    },
+    "futuro-pratico/public/narracao/frase-06.mp3": {
+      "sha256Before": "92caadfa70f87d20d89ad43a3bd25953bd63bbb06fff5dfb7f34f8083dd4a5eb",
+      "sha256Now": "92caadfa70f87d20d89ad43a3bd25953bd63bbb06fff5dfb7f34f8083dd4a5eb",
+      "integrated": false
+    },
+    "futuro-pratico/public/narracao/futuro-pratico-mix-v2.wav": {
+      "sha256Before": "4099087403c8cd2b112f070727801918a25770827457d93fc0dc66a31730aece",
+      "sha256Now": "4099087403c8cd2b112f070727801918a25770827457d93fc0dc66a31730aece",
+      "integrated": false
+    },
+    "futuro-pratico/public/narracao/futuro-pratico-narracao.wav": {
+      "sha256Before": "512ae01ac27f87fec8027ab3d5d10fe7f5b51f2472605cb6409ac1fb2a531297",
+      "sha256Now": "512ae01ac27f87fec8027ab3d5d10fe7f5b51f2472605cb6409ac1fb2a531297",
+      "integrated": false
+    },
+    "futuro-pratico/public/teste-02/captions.json": {
+      "sha256Before": "ebd7c03dbc2119bbfae8bdfb491780aa6e037b9c2bbddd51e91cb309a9e67b61",
+      "sha256Now": "ebd7c03dbc2119bbfae8bdfb491780aa6e037b9c2bbddd51e91cb309a9e67b61",
+      "integrated": false
+    },
+    "futuro-pratico/public/teste-02/efeitos-originais.wav": {
+      "sha256Before": "ee1deded48c3dc0774a67d7b96d8ee2c9c36baec0b1088046414174ada6436fe",
+      "sha256Now": "ee1deded48c3dc0774a67d7b96d8ee2c9c36baec0b1088046414174ada6436fe",
+      "integrated": false
+    },
+    "futuro-pratico/public/teste-02/mix-final.wav": {
+      "sha256Before": "426dcaaf94f3e452268f06fdd167b1fcd6753602a28e6c08ecd3f14eaed67be9",
+      "sha256Now": "426dcaaf94f3e452268f06fdd167b1fcd6753602a28e6c08ecd3f14eaed67be9",
+      "integrated": false
+    },
+    "futuro-pratico/public/teste-02/music-loop.wav": {
+      "sha256Before": "b2f0450cf820b77f6b7c4736008ae14bd5db3bdc9d540da03661190178e9287c",
+      "sha256Now": "b2f0450cf820b77f6b7c4736008ae14bd5db3bdc9d540da03661190178e9287c",
+      "integrated": false
+    },
+    "futuro-pratico/public/teste-02/narracao.wav": {
+      "sha256Before": "55432e2379332549f543b0a162f132c2e78f13ebd5bb9dcc8ae0813f5e9c717c",
+      "sha256Now": "55432e2379332549f543b0a162f132c2e78f13ebd5bb9dcc8ae0813f5e9c717c",
+      "integrated": false
+    },
+    "futuro-pratico/public/teste-02/voz-01.json": {
+      "sha256Before": "8f4515065cb17ee553cf1530ac7cd731d5ecfef4f8ffcf24fb88e8562af75c2d",
+      "sha256Now": "8f4515065cb17ee553cf1530ac7cd731d5ecfef4f8ffcf24fb88e8562af75c2d",
+      "integrated": false
+    },
+    "futuro-pratico/public/teste-02/voz-01.mp3": {
+      "sha256Before": "6e427c5b1c9a548bca94dc13d5152a93f4eb49721d160eec4eb3203f474b0786",
+      "sha256Now": "6e427c5b1c9a548bca94dc13d5152a93f4eb49721d160eec4eb3203f474b0786",
+      "integrated": false
+    },
+    "futuro-pratico/public/teste-02/voz-02.json": {
+      "sha256Before": "859e2317e71879739f34d97865f6010f56e3a41ab78267266ddf5205fbbf35f3",
+      "sha256Now": "859e2317e71879739f34d97865f6010f56e3a41ab78267266ddf5205fbbf35f3",
+      "integrated": false
+    },
+    "futuro-pratico/public/teste-02/voz-02.mp3": {
+      "sha256Before": "e873a3011f67bcf5c52bd7fb866351e31aad7011f4c0fae025bc2664d17f5a43",
+      "sha256Now": "e873a3011f67bcf5c52bd7fb866351e31aad7011f4c0fae025bc2664d17f5a43",
+      "integrated": false
+    },
+    "futuro-pratico/public/teste-02/voz-03.json": {
+      "sha256Before": "1f342fa29b9e3d671a5ce50ba63b19f698ef4ca2731a2b6e94c40ac1e88fafaa",
+      "sha256Now": "1f342fa29b9e3d671a5ce50ba63b19f698ef4ca2731a2b6e94c40ac1e88fafaa",
+      "integrated": false
+    },
+    "futuro-pratico/public/teste-02/voz-03.mp3": {
+      "sha256Before": "9048e47bc4a75f77f0996a1ba13925cf857e3c9aa75533519dc911ff5d4b692c",
+      "sha256Now": "9048e47bc4a75f77f0996a1ba13925cf857e3c9aa75533519dc911ff5d4b692c",
+      "integrated": false
+    },
+    "futuro-pratico/public/teste-02/voz-04.json": {
+      "sha256Before": "1616fdc8b7b2dc1445658cc9dc91f534cfa1c921d8fe474fc8ce61736faae813",
+      "sha256Now": "1616fdc8b7b2dc1445658cc9dc91f534cfa1c921d8fe474fc8ce61736faae813",
+      "integrated": false
+    },
+    "futuro-pratico/public/teste-02/voz-04.mp3": {
+      "sha256Before": "baee6886a078535a98053679000687c921c21bfde2fb2471e7770f9c9832ae3a",
+      "sha256Now": "baee6886a078535a98053679000687c921c21bfde2fb2471e7770f9c9832ae3a",
+      "integrated": false
+    },
+    "futuro-pratico/public/teste-02/voz-05.json": {
+      "sha256Before": "430ac3e6fa3868aad1ab2b0381b854b01295efdd0e5225b73debe84fd186d6cb",
+      "sha256Now": "430ac3e6fa3868aad1ab2b0381b854b01295efdd0e5225b73debe84fd186d6cb",
+      "integrated": false
+    },
+    "futuro-pratico/public/teste-02/voz-05.mp3": {
+      "sha256Before": "c9d12f77a51c48e3e140919325768b570a5a4833b1d189c54c6c67313c0b1b8a",
+      "sha256Now": "c9d12f77a51c48e3e140919325768b570a5a4833b1d189c54c6c67313c0b1b8a",
+      "integrated": false
+    },
+    "futuro-pratico/public/teste-02/voz-06.json": {
+      "sha256Before": "d35f852afd304b307b9676daf6011f7a8bac31248b4090f1308ec4aa016e970c",
+      "sha256Now": "d35f852afd304b307b9676daf6011f7a8bac31248b4090f1308ec4aa016e970c",
+      "integrated": false
+    },
+    "futuro-pratico/public/teste-02/voz-06.mp3": {
+      "sha256Before": "60041ce89849b65b886856bff7501d3ee4a337aa7d83037a40b03bd91807afe2",
+      "sha256Now": "60041ce89849b65b886856bff7501d3ee4a337aa7d83037a40b03bd91807afe2",
+      "integrated": false
+    },
+    "futuro-pratico/public/teste-02/voz-07.json": {
+      "sha256Before": "418c2ed4dcfe567d669460b93e69cbbb9e0324cd9994bd16753a8e562e975f96",
+      "sha256Now": "418c2ed4dcfe567d669460b93e69cbbb9e0324cd9994bd16753a8e562e975f96",
+      "integrated": false
+    },
+    "futuro-pratico/public/teste-02/voz-07.mp3": {
+      "sha256Before": "5727a31e9ba3fbf46c3186481770b5fac66273a31f74f4eb49c2a28d90af2048",
+      "sha256Now": "5727a31e9ba3fbf46c3186481770b5fac66273a31f74f4eb49c2a28d90af2048",
+      "integrated": false
+    },
+    "futuro-pratico/public/teste-02/voz-08.json": {
+      "sha256Before": "da4822e06b9559bcfe2c7981a81c157e8d44198fa810354af3a6899c6aa37ae0",
+      "sha256Now": "da4822e06b9559bcfe2c7981a81c157e8d44198fa810354af3a6899c6aa37ae0",
+      "integrated": false
+    },
+    "futuro-pratico/public/teste-02/voz-08.mp3": {
+      "sha256Before": "b4a58e7b3cda9b3907643be7d84d6d4a21841a2826b78f4605a0127e1d83a3a9",
+      "sha256Now": "b4a58e7b3cda9b3907643be7d84d6d4a21841a2826b78f4605a0127e1d83a3a9",
+      "integrated": false
+    },
+    "futuro-pratico/public/teste-03/captions.json": {
+      "sha256Before": "9fe1e0e018c745578bb9e31271a2ea7ee633590244cce405a8bd9371796dd056",
+      "sha256Now": "9fe1e0e018c745578bb9e31271a2ea7ee633590244cce405a8bd9371796dd056",
+      "integrated": false
+    },
+    "futuro-pratico/public/teste-03/efeitos-originais.wav": {
+      "sha256Before": "092ee6fde5da80ee6bfc0008db9232e7bd4878736ecebcd50f0ca8690e412b95",
+      "sha256Now": "092ee6fde5da80ee6bfc0008db9232e7bd4878736ecebcd50f0ca8690e412b95",
+      "integrated": false
+    },
+    "futuro-pratico/public/teste-03/mix-final.wav": {
+      "sha256Before": "3aa8ed88020efdbd6b4879ca03e05154281c9c7b6389a76ee7981b55d5dacf79",
+      "sha256Now": "3aa8ed88020efdbd6b4879ca03e05154281c9c7b6389a76ee7981b55d5dacf79",
+      "integrated": false
+    },
+    "futuro-pratico/public/teste-03/narracao.wav": {
+      "sha256Before": "c6ee0593ef54bad987d12830099cc69cf2517f24b6e9e61164cce36916311868",
+      "sha256Now": "c6ee0593ef54bad987d12830099cc69cf2517f24b6e9e61164cce36916311868",
+      "integrated": false
+    },
+    "futuro-pratico/public/teste-03/roadster-interior-2019.jpg": {
+      "sha256Before": "756792c1d627a2b9a8343d1044fbf273b8ede41b1f72cfc54591d3075e9675ed",
+      "sha256Now": "756792c1d627a2b9a8343d1044fbf273b8ede41b1f72cfc54591d3075e9675ed",
+      "integrated": false
+    },
+    "futuro-pratico/public/teste-03/roadster-prototipo-2019.jpg": {
+      "sha256Before": "9541b2e6ee6c63be6a8b3bbc664a0f91b24008bbee1527f39c37f8d713542419",
+      "sha256Now": "9541b2e6ee6c63be6a8b3bbc664a0f91b24008bbee1527f39c37f8d713542419",
+      "integrated": false
+    },
+    "futuro-pratico/public/teste-03/voz-01.json": {
+      "sha256Before": "5f51c0106f225f9d7a3baea429871cbe43fb7dce6021fdb8fc4f9679740626b8",
+      "sha256Now": "5f51c0106f225f9d7a3baea429871cbe43fb7dce6021fdb8fc4f9679740626b8",
+      "integrated": false
+    },
+    "futuro-pratico/public/teste-03/voz-01.mp3": {
+      "sha256Before": "d416c34949ab798cae24c76e7f50771f6e498185bf16bcc4a61d4c46106298ff",
+      "sha256Now": "d416c34949ab798cae24c76e7f50771f6e498185bf16bcc4a61d4c46106298ff",
+      "integrated": false
+    },
+    "futuro-pratico/public/teste-03/voz-02.json": {
+      "sha256Before": "ddd166d86bd3f99dc77a5e50595f8e8f23ad147f349dad360384ee9571481fb2",
+      "sha256Now": "ddd166d86bd3f99dc77a5e50595f8e8f23ad147f349dad360384ee9571481fb2",
+      "integrated": false
+    },
+    "futuro-pratico/public/teste-03/voz-02.mp3": {
+      "sha256Before": "24b62dc1b9a69f5b23af0515527cc8b8331d8fb6420013c23b3da019247b0d39",
+      "sha256Now": "24b62dc1b9a69f5b23af0515527cc8b8331d8fb6420013c23b3da019247b0d39",
+      "integrated": false
+    },
+    "futuro-pratico/public/teste-03/voz-03.json": {
+      "sha256Before": "a296afb7fbba9d616b904beb9eb8d97cf104e150069c845ebec65eb94cdd19d3",
+      "sha256Now": "a296afb7fbba9d616b904beb9eb8d97cf104e150069c845ebec65eb94cdd19d3",
+      "integrated": false
+    },
+    "futuro-pratico/public/teste-03/voz-03.mp3": {
+      "sha256Before": "6d32fc230b53e872703573a67b2680797879b14a75688f8a0d16907c79a7f10a",
+      "sha256Now": "6d32fc230b53e872703573a67b2680797879b14a75688f8a0d16907c79a7f10a",
+      "integrated": false
+    },
+    "futuro-pratico/public/teste-03/voz-04.json": {
+      "sha256Before": "d1833868976313cae0d8e1f122149882d39f600be9cc783f0994f428b705f2d4",
+      "sha256Now": "d1833868976313cae0d8e1f122149882d39f600be9cc783f0994f428b705f2d4",
+      "integrated": false
+    },
+    "futuro-pratico/public/teste-03/voz-04.mp3": {
+      "sha256Before": "9aa4196a22e33136150cad3cb54faa452104a0ba121cb539ea78f56a5f93b5f4",
+      "sha256Now": "9aa4196a22e33136150cad3cb54faa452104a0ba121cb539ea78f56a5f93b5f4",
+      "integrated": false
+    },
+    "futuro-pratico/public/teste-03/voz-05.json": {
+      "sha256Before": "d554effff503f058e7ec41a32e7ceb8d6eee231d02ae6795b2a24dc2fe5af409",
+      "sha256Now": "d554effff503f058e7ec41a32e7ceb8d6eee231d02ae6795b2a24dc2fe5af409",
+      "integrated": false
+    },
+    "futuro-pratico/public/teste-03/voz-05.mp3": {
+      "sha256Before": "14650d5b73ed1545d2e17671905904397bfbefd36a5c2246c21e16829b93dbb5",
+      "sha256Now": "14650d5b73ed1545d2e17671905904397bfbefd36a5c2246c21e16829b93dbb5",
+      "integrated": false
+    },
+    "futuro-pratico/public/teste-03/voz-06.json": {
+      "sha256Before": "8a2ef300f661c79b6ebbe7b9833d8867fcabe34ef3be09bc37a98fc8919111a4",
+      "sha256Now": "8a2ef300f661c79b6ebbe7b9833d8867fcabe34ef3be09bc37a98fc8919111a4",
+      "integrated": false
+    },
+    "futuro-pratico/public/teste-03/voz-06.mp3": {
+      "sha256Before": "10eb442608b7a4a50a9c5983d72d5125528494451b88e5e83419f1ca7ef78fe1",
+      "sha256Now": "10eb442608b7a4a50a9c5983d72d5125528494451b88e5e83419f1ca7ef78fe1",
+      "integrated": false
+    },
+    "futuro-pratico/public/teste-03/voz-07.json": {
+      "sha256Before": "f16e4e05b04f3e30f4c2d0c4ae0d6655f7235427a6903ab265bd962c4eb692e1",
+      "sha256Now": "f16e4e05b04f3e30f4c2d0c4ae0d6655f7235427a6903ab265bd962c4eb692e1",
+      "integrated": false
+    },
+    "futuro-pratico/public/teste-03/voz-07.mp3": {
+      "sha256Before": "7f5304074b9a54823499f97d32eca48031bfb58160869efc3d571bae5e489d47",
+      "sha256Now": "7f5304074b9a54823499f97d32eca48031bfb58160869efc3d571bae5e489d47",
+      "integrated": false
+    },
+    "futuro-pratico/research/teste-02/gmail-drafts.md": {
+      "sha256Before": "1abca3162dc6d90e35adc111e20f45b902734050723027148d5e6a4dd30fc00d",
+      "sha256Now": "1abca3162dc6d90e35adc111e20f45b902734050723027148d5e6a4dd30fc00d",
+      "integrated": false
+    },
+    "futuro-pratico/research/teste-02/n8n-ai-overview.md": {
+      "sha256Before": "53bb9284312946378993ae5af77bd1c686529f1bac311fa49a49a9f595dc3acc",
+      "sha256Now": "53bb9284312946378993ae5af77bd1c686529f1bac311fa49a49a9f595dc3acc",
+      "integrated": false
+    },
+    "futuro-pratico/research/teste-02/n8n-human-review.md": {
+      "sha256Before": "bbb0240e85f99f286ff3e7d502d4d4fd7d632af6f5b7dd159c0efc3f11aabf7c",
+      "sha256Now": "bbb0240e85f99f286ff3e7d502d4d4fd7d632af6f5b7dd159c0efc3f11aabf7c",
+      "integrated": false
+    },
+    "futuro-pratico/research/teste-02/n8n-readme.md": {
+      "sha256Before": "75c64f04b8b1e7d435496f6ebd2dbf3ea5ff7d3ff3d944d7fcf98cf1a7df2242",
+      "sha256Now": "75c64f04b8b1e7d435496f6ebd2dbf3ea5ff7d3ff3d944d7fcf98cf1a7df2242",
+      "integrated": false
+    },
+    "futuro-pratico/research/teste-02/n8n-release-dates.json": {
+      "sha256Before": "40384cdbcef9e362837cb6562b84d7682fc1c7094487932b2f6f6d9603cdf263",
+      "sha256Now": "40384cdbcef9e362837cb6562b84d7682fc1c7094487932b2f6f6d9603cdf263",
+      "integrated": false
+    },
+    "futuro-pratico/research/teste-02/public-questions.json": {
+      "sha256Before": "877fe5971617a4d371677a29009186614153ee95aba525fc91b088dd15527cba",
+      "sha256Now": "877fe5971617a4d371677a29009186614153ee95aba525fc91b088dd15527cba",
+      "integrated": false
+    },
+    "futuro-pratico/research/teste-02/zapier-source-extract.json": {
+      "sha256Before": "d39a5b01b5e02f3d5753d80b0ef2960b7c070e87f9558b874523e9445bfaa2a5",
+      "sha256Now": "d39a5b01b5e02f3d5753d80b0ef2960b7c070e87f9558b874523e9445bfaa2a5",
+      "integrated": false
+    },
+    "futuro-pratico/research/teste-03/ap-article.html": {
+      "sha256Before": "2ef0180fc3ff65035b6d53b30b81696db502fc36a37c8c71639da2ff3144a12f",
+      "sha256Now": "2ef0180fc3ff65035b6d53b30b81696db502fc36a37c8c71639da2ff3144a12f",
+      "integrated": false
+    },
+    "futuro-pratico/research/teste-03/ap-article.txt": {
+      "sha256Before": "d5954b7f520693ed681cfebf17a63e3b3b07dc0b9719fcc7319fdba3a703f418",
+      "sha256Now": "d5954b7f520693ed681cfebf17a63e3b3b07dc0b9719fcc7319fdba3a703f418",
+      "integrated": false
+    },
+    "futuro-pratico/research/teste-03/ap-search.html": {
+      "sha256Before": "5f7b01d91c28821364d8236473540e43a09c8dfb2fca8be34cc2cadb28e669c0",
+      "sha256Now": "5f7b01d91c28821364d8236473540e43a09c8dfb2fca8be34cc2cadb28e669c0",
+      "integrated": false
+    },
+    "futuro-pratico/research/teste-03/caranddriver.html": {
+      "sha256Before": "7941904926f1663808c305e0c886b304e0729b690de4819302aa28b48c255fd3",
+      "sha256Now": "7941904926f1663808c305e0c886b304e0729b690de4819302aa28b48c255fd3",
+      "integrated": false
+    },
+    "futuro-pratico/research/teste-03/commons-category.json": {
+      "sha256Before": "5f5eaf358ebd207afeee534535cbfc1d02892c0446e5225f72007c6cef44a2aa",
+      "sha256Now": "5f5eaf358ebd207afeee534535cbfc1d02892c0446e5225f72007c6cef44a2aa",
+      "integrated": false
+    },
+    "futuro-pratico/research/teste-03/commons-historical.json": {
+      "sha256Before": "b12709b533622617e0a85b0decf0a6bf72ba53f3cec7fa11fa645c923ed3c36d",
+      "sha256Now": "b12709b533622617e0a85b0decf0a6bf72ba53f3cec7fa11fa645c923ed3c36d",
+      "integrated": false
+    },
+    "futuro-pratico/research/teste-03/commons-prototype.json": {
+      "sha256Before": "c344d06171a65486a4bf9c8531608777ff522de6849a995639def5e87b7b348c",
+      "sha256Now": "c344d06171a65486a4bf9c8531608777ff522de6849a995639def5e87b7b348c",
+      "integrated": false
+    },
+    "futuro-pratico/research/teste-03/commons-provenance.json": {
+      "sha256Before": "5aa14e28788e3e492dea29ed6891df2aeee586ee9236c63fbe1adfdf76a21dd7",
+      "sha256Now": "5aa14e28788e3e492dea29ed6891df2aeee586ee9236c63fbe1adfdf76a21dd7",
+      "integrated": false
+    },
+    "futuro-pratico/research/teste-03/commons-search.json": {
+      "sha256Before": "a766bdece2125b6ab6c2abb99446a32223a9d03dcef855419c9a76a947a4b362",
+      "sha256Now": "a766bdece2125b6ab6c2abb99446a32223a9d03dcef855419c9a76a947a4b362",
+      "integrated": false
+    },
+    "futuro-pratico/research/teste-03/nasa-thrust.html": {
+      "sha256Before": "94e3f474b2e5560aea05175793e7c8e3c94a78974fc7a6069afd94d8eb4436e3",
+      "sha256Now": "94e3f474b2e5560aea05175793e7c8e3c94a78974fc7a6069afd94d8eb4436e3",
+      "integrated": false
+    },
+    "futuro-pratico/research/teste-03/reuters-search.html": {
+      "sha256Before": "e611d81e1aabee5bbfa6acd1d23b65092e8b2fb3f01719696ef6f6b22021033a",
+      "sha256Now": "e611d81e1aabee5bbfa6acd1d23b65092e8b2fb3f01719696ef6f6b22021033a",
+      "integrated": false
+    },
+    "futuro-pratico/research/teste-03/roadster-bing-2.txt": {
+      "sha256Before": "943b0f1141d28364cf6c1aeaf0fc5d1aef6df766e563d27a19062b00ba58bcfb",
+      "sha256Now": "943b0f1141d28364cf6c1aeaf0fc5d1aef6df766e563d27a19062b00ba58bcfb",
+      "integrated": false
+    },
+    "futuro-pratico/research/teste-03/roadster-bing-technical.txt": {
+      "sha256Before": "970237ca08a86e7fcfdc6ba764e948164d939b09f88ec9010d9f042e27f13109",
+      "sha256Now": "970237ca08a86e7fcfdc6ba764e948164d939b09f88ec9010d9f042e27f13109",
+      "integrated": false
+    },
+    "futuro-pratico/research/teste-03/roadster-bing.txt": {
+      "sha256Before": "99ff7b12883c67170ea513a545f09ff81982412689d6f125b5d9aafa425d3da5",
+      "sha256Now": "99ff7b12883c67170ea513a545f09ff81982412689d6f125b5d9aafa425d3da5",
+      "integrated": false
+    },
+    "futuro-pratico/research/teste-03/roadster-google.txt": {
+      "sha256Before": "efe45cb449b93b1949d38e769459b2bdc9dcb95bbac51b81414edb1fda9d95a4",
+      "sha256Now": "efe45cb449b93b1949d38e769459b2bdc9dcb95bbac51b81414edb1fda9d95a4",
+      "integrated": false
+    },
+    "futuro-pratico/research/teste-03/roadster-media-search.html": {
+      "sha256Before": "f8f4ef2f95044535a3f975f744e3bc6cd6309724a8fec32528592bc01288a6c2",
+      "sha256Now": "f8f4ef2f95044535a3f975f744e3bc6cd6309724a8fec32528592bc01288a6c2",
+      "integrated": false
+    },
+    "futuro-pratico/research/teste-03/spacex.html": {
+      "sha256Before": "74f01e34ce716ba4095d5099747463310c9775e43a978f7ac60878bfffcd3188",
+      "sha256Now": "74f01e34ce716ba4095d5099747463310c9775e43a978f7ac60878bfffcd3188",
+      "integrated": false
+    },
+    "futuro-pratico/research/teste-03/tesla-livestream.html": {
+      "sha256Before": "4cb1f1cf42661747d733a9537040f2aac3a6704773c30889e77890fada85374a",
+      "sha256Now": "4cb1f1cf42661747d733a9537040f2aac3a6704773c30889e77890fada85374a",
+      "integrated": false
+    },
+    "futuro-pratico/research/teste-03/tesla-presskit.html": {
+      "sha256Before": "b55473821a61acf80aa76829e95ffb0c549f72a6cf60c5a4b0380c51be01a6b8",
+      "sha256Now": "b55473821a61acf80aa76829e95ffb0c549f72a6cf60c5a4b0380c51be01a6b8",
+      "integrated": false
+    },
+    "futuro-pratico/research/teste-03/tesla-presskit.txt": {
+      "sha256Before": "e9767fe0f6f26a9d56f8072f844a82235d23606581efaff00f0272fed3525f78",
+      "sha256Now": "e9767fe0f6f26a9d56f8072f844a82235d23606581efaff00f0272fed3525f78",
+      "integrated": false
+    },
+    "futuro-pratico/research/teste-03/tesla-roadster.html": {
+      "sha256Before": "bf288c36305d908bc5743e6caa7a1000574412017d13414dd95dbbbe20fb9a75",
+      "sha256Now": "bf288c36305d908bc5743e6caa7a1000574412017d13414dd95dbbbe20fb9a75",
+      "integrated": false
+    },
+    "futuro-pratico/research/teste-03/tesla-roadster.txt": {
+      "sha256Before": "809adf2dd0ccca05180b506ddc1ff204b7ccb6640c561b4622eeb215de141d09",
+      "sha256Now": "809adf2dd0ccca05180b506ddc1ff204b7ccb6640c561b4622eeb215de141d09",
+      "integrated": false
+    },
+    "futuro-pratico/research/teste-03/tesla-specs-extract.txt": {
+      "sha256Before": "546482fe924c66f99efa52925dce3087392bb080e6c20992a541743e6a3a8aeb",
+      "sha256Now": "546482fe924c66f99efa52925dce3087392bb080e6c20992a541743e6a3a8aeb",
+      "integrated": false
+    },
+    "futuro-pratico/research/teste-03/tesla-terms.html": {
+      "sha256Before": "cbd8b037e5e8c1a4c3a4d238ed82c8007c8529012f645c6a0658bb2663ebaecf",
+      "sha256Now": "cbd8b037e5e8c1a4c3a4d238ed82c8007c8529012f645c6a0658bb2663ebaecf",
+      "integrated": false
+    },
+    "futuro-pratico/research/teste-03/tesla-terms.txt": {
+      "sha256Before": "28dfd1d57dd5fbadac6627428a4b643c29d6f8b763bc60156d610a869f206853",
+      "sha256Now": "28dfd1d57dd5fbadac6627428a4b643c29d6f8b763bc60156d610a869f206853",
+      "integrated": false
+    },
+    "futuro-pratico/research/teste-03/topgear.html": {
+      "sha256Before": "c8bd0abb5c48316e26f38d5daee93b6eaf4026606e9152b47791e5194d184046",
+      "sha256Now": "c8bd0abb5c48316e26f38d5daee93b6eaf4026606e9152b47791e5194d184046",
+      "integrated": false
+    },
+    "futuro-pratico/src/scenes/Automation.tsx": {
+      "sha256Before": "0b6837ec6994d3bf1f80e6f76205228d666a44e1b0ed35cc65db0df70fd16df8",
+      "sha256Now": "0b6837ec6994d3bf1f80e6f76205228d666a44e1b0ed35cc65db0df70fd16df8",
+      "integrated": false
+    },
+    "futuro-pratico/src/scenes/Closing.tsx": {
+      "sha256Before": "cf26b2acc6871b585658506164524bdbf5c66468b6b4bce41bec65031c226eb1",
+      "sha256Now": "cf26b2acc6871b585658506164524bdbf5c66468b6b4bce41bec65031c226eb1",
+      "integrated": false
+    },
+    "futuro-pratico/src/scenes/Content.tsx": {
+      "sha256Before": "fc16f8867599f0ddc30a7ec6379995b94411f4dc0fd4164b0b8c12b3cac0cf1c",
+      "sha256Now": "fc16f8867599f0ddc30a7ec6379995b94411f4dc0fd4164b0b8c12b3cac0cf1c",
+      "integrated": false
+    },
+    "futuro-pratico/src/scenes/Opening.tsx": {
+      "sha256Before": "7c3c73aa4544377dd5de1c50bcc2864e8edd2d019ce28b7b852c3f7d04730e24",
+      "sha256Now": "7c3c73aa4544377dd5de1c50bcc2864e8edd2d019ce28b7b852c3f7d04730e24",
+      "integrated": false
+    },
+    "futuro-pratico/src/scenes/Websites.tsx": {
+      "sha256Before": "96e8984321f4425e505ac34abe25e7a9ef4426727437106858f98846b33225f4",
+      "sha256Now": "96e8984321f4425e505ac34abe25e7a9ef4426727437106858f98846b33225f4",
+      "integrated": false
+    },
+    "futuro-pratico/src/teste02/BasicCaptions.tsx": {
+      "sha256Before": "9eea5ad2c975f5b21885d4f137165b351f6adeab114857ae52daf6a0484ba716",
+      "sha256Now": "9eea5ad2c975f5b21885d4f137165b351f6adeab114857ae52daf6a0484ba716",
+      "integrated": false
+    },
+    "futuro-pratico/src/teste02/Captions.tsx": {
+      "sha256Before": "f157c99ebe7b06e508f1ffce941170c82c2c43b7dfa24d399d8fdc3dafeef47d",
+      "sha256Now": "f157c99ebe7b06e508f1ffce941170c82c2c43b7dfa24d399d8fdc3dafeef47d",
+      "integrated": false
+    },
+    "futuro-pratico/src/teste02/Surfaces.tsx": {
+      "sha256Before": "f5961c8d0662932ecc3a6336874c7d6c84673dca5a2226323bfd32721bed7a68",
+      "sha256Now": "f5961c8d0662932ecc3a6336874c7d6c84673dca5a2226323bfd32721bed7a68",
+      "integrated": false
+    },
+    "futuro-pratico/src/teste02/Teste02.tsx": {
+      "sha256Before": "6bbfd6f09a0d919c9bc899082849b310b42a80cfd6d139646f3fe0c762ccb013",
+      "sha256Now": "6bbfd6f09a0d919c9bc899082849b310b42a80cfd6d139646f3fe0c762ccb013",
+      "integrated": false
+    },
+    "futuro-pratico/src/teste02/plan.json": {
+      "sha256Before": "8d30557acfc3a3737dcae51462118215604c9db498330dea3cd3efc915f8fae5",
+      "sha256Now": "8d30557acfc3a3737dcae51462118215604c9db498330dea3cd3efc915f8fae5",
+      "integrated": false
+    },
+    "futuro-pratico/src/teste02/timing.ts": {
+      "sha256Before": "577cc1a14e3ec56f06794c831662fde287a32123318a1ac2787b24af4190d4d8",
+      "sha256Now": "577cc1a14e3ec56f06794c831662fde287a32123318a1ac2787b24af4190d4d8",
+      "integrated": false
+    },
+    "futuro-pratico/src/teste03/Captions.tsx": {
+      "sha256Before": "0f21a87f15169a0f389f2c001d0cd860f00abf4b40b141e6c3910d159c995be7",
+      "sha256Now": "0f21a87f15169a0f389f2c001d0cd860f00abf4b40b141e6c3910d159c995be7",
+      "integrated": false
+    },
+    "futuro-pratico/src/teste03/Car.tsx": {
+      "sha256Before": "a0865887cd379446d8905983f3e9294d210cfd941162d3cd552db4ce21aad009",
+      "sha256Now": "a0865887cd379446d8905983f3e9294d210cfd941162d3cd552db4ce21aad009",
+      "integrated": false
+    },
+    "futuro-pratico/src/teste03/Roadster.tsx": {
+      "sha256Before": "ce678c4ae66ca49223177092eb61b9d23be1c620a12f27b836f27151c2b45845",
+      "sha256Now": "ce678c4ae66ca49223177092eb61b9d23be1c620a12f27b836f27151c2b45845",
+      "integrated": false
+    },
+    "futuro-pratico/src/teste03/Scenes.tsx": {
+      "sha256Before": "08922444eb5c85a65ec233936d6c342fdeeefd05b5eaf3053193e0b3695f0f60",
+      "sha256Now": "08922444eb5c85a65ec233936d6c342fdeeefd05b5eaf3053193e0b3695f0f60",
+      "integrated": false
+    },
+    "futuro-pratico/src/teste03/plan.json": {
+      "sha256Before": "bcfcb8e8ff95c69a46693d4da2b4284b1b5f44239197debb22c37c48d9b19119",
+      "sha256Now": "bcfcb8e8ff95c69a46693d4da2b4284b1b5f44239197debb22c37c48d9b19119",
+      "integrated": false
+    },
+    "futuro-pratico/src/teste03/timing.ts": {
+      "sha256Before": "0c0c6a2d89eada726fb305f49b83a99adcb65f350293b83e4c3308b078de1f17",
+      "sha256Now": "0c0c6a2d89eada726fb305f49b83a99adcb65f350293b83e4c3308b078de1f17",
+      "integrated": false
+    }
+  },
+  "existingVideos": {
+    "out/futuro-pratico-instagram.mp4": "16a213a64308d6e25109fff74ebd1c6aa6180646d43e0877db76a377952a03f7",
+    "out/futuro-pratico-tesla-roadster.mp4": "1ca99bf8454d194d37af42418d58d38adc5f0ab386cf6218edf035dbadd52cc4",
+    "out/futuro-pratico-teste-02.mp4": "ce3569f42b4da0a0f80728e1bc4911aaec3abc8f98e81486031c4d0955a7f88c",
+    "out/futuro-pratico-v2-narrado.mp4": "8be751a868cceb02443cecd81abb7d6d826a667d51294a992f5cf20096d670d4",
+    "out/roadster-opening-preview.mp4": "91c4188dd3275ac1acc900f72f6bd90c62db0f3b561aae15d1a07d5107d3c5cd"
+  },
+  "newMP4Generated": false
+}

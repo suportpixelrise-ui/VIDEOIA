@@ -37,7 +37,18 @@
     "render:teste02": "node scripts/render-teste02.cjs",
     "validate:teste02": "python3 scripts/validate_teste02.py",
     "render:roadster": "node scripts/render-roadster.cjs",
-    "validate:roadster": "python3 scripts/validate_roadster.py"
+    "validate:roadster": "python3 scripts/validate_roadster.py",
+    "fp:doctor": "python3 scripts/futuro-pratico/doctor.py",
+    "fp:assets:inspect": "python3 scripts/futuro-pratico/assets.py inspect",
+    "fp:assets:import": "python3 scripts/futuro-pratico/assets.py import",
+    "fp:assets:validate": "python3 scripts/futuro-pratico/assets.py validate",
+    "fp:episode": "python3 scripts/futuro-pratico/pipeline.py",
+    "fp:test": "node --test tests/futuro-pratico/*.test.mjs && python3 -m unittest discover -s tests/futuro-pratico -p \"test_*.py\"",
+    "fp:preview": "remotion studio src/index.ts --no-open",
+    "fp:stills": "node scripts/futuro-pratico/qa-stills.mjs",
+    "fp:export": "node scripts/futuro-pratico/export.mjs",
+    "fp:skills:validate": "python3 scripts/futuro-pratico/check_skills.py",
+    "fp:check:studio": "node scripts/futuro-pratico/check-studio.cjs"
   },
   "allowScripts": {
     "esbuild": false

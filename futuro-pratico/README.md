@@ -1,3 +1,5 @@
+> **Base de produção do canal:** [manual, catálogo, Skills e comandos](docs/futuro-pratico/README.md). Infraestrutura nova sem exportar episódio.
+
 > **Teste03 — Tesla Roadster:** história de 51,70s, composição `FuturoPraticoRoadster`, com fatos atribuídos a AP/Tesla, fotos históricas CC BY 2.0 e ilustrações identificadas. [Roteiro, direitos e fontes](docs/teste-03/README.md).
 
 > **Teste 02:** nova história audiovisual de 67,97s sobre automação de um pedido por e-mail. Composição `FuturoPraticoTeste02`, saída `out/futuro-pratico-teste-02.mp4`. [Roteiro, pesquisa e documentação](docs/teste-02/README.md). As versões anteriores foram preservadas.

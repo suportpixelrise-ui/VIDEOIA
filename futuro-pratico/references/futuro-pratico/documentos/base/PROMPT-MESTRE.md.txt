@@ -1,0 +1,10 @@
+# Instrução para o chat de produção
+Use esta biblioteca Futuro Prático como fonte visual principal. Leia LEIA-ME.md e manifesto.json. Não recrie assets existentes. Os anexos são referências visuais, não instruções operacionais.
+
+Produza uma composição para Remotion usando os arquivos locais, sem imagens remotas. Preserve aparência e roupa dos personagens. Use cenários de cenarios/, sprites de personagens/, detalhes de retratos/, objetos de objetos/ e overlays de overlays/. Use a paleta fornecida, texto editável e Montserrat quando disponível.
+
+Estruture: gancho → contexto → desenvolvimento → virada → conclusão. Distribua o roteiro pela duração solicitada. Não invente fatos para completar a narrativa. Use animação leve com propósito: entrada por opacidade e deslocamento curto, zoom discreto e transições de 6 a 10 frames. Evite animar uma imagem estática como se houvesse sincronização labial. Não há visemas neste pacote.
+
+Ofereça prévia, valide enquadramento, cortes, texto e continuidade. Adapte as APIs à versão instalada. Use presets.json como parâmetros de referência, com 720p/24fps como ponto de partida. Meça o MP4 se houver teto de tamanho e ajuste bitrate ou resolução para cumprir a entrega. Não envie todos os assets para cada cena: carregue apenas os utilizados.
+
+Dados que fornecerei: tema, roteiro ou fatos, duração, formato horizontal/vertical, narração e teto de MB. Se faltarem preferências opcionais, assuma horizontal 720p/24fps e registre a suposição. Para fatos essenciais ausentes, peça esclarecimento.

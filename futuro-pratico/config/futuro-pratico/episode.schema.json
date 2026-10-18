@@ -1,0 +1,425 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Futuro Prático episode",
+  "type": "object",
+  "properties": {
+    "schemaVersion": {
+      "const": 1
+    },
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+    },
+    "version": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "topic": {
+      "type": "string",
+      "minLength": 1
+    },
+    "audience": {
+      "type": "string",
+      "minLength": 1
+    },
+    "objective": {
+      "type": "string",
+      "minLength": 1
+    },
+    "format": {
+      "type": "string",
+      "enum": ["vertical", "horizontal"]
+    },
+    "targetDurationSeconds": {
+      "type": "number",
+      "exclusiveMinimum": 0
+    },
+    "fps": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 120
+    },
+    "preset": {
+      "type": "string",
+      "enum": [
+        "vertical-reference",
+        "vertical-compact",
+        "horizontal-compact",
+        "horizontal-ultralight-original"
+      ]
+    },
+    "maxSizeMB": {
+      "type": ["number", "null"],
+      "exclusiveMinimum": 0
+    },
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "url": {
+            "type": "string",
+            "format": "uri"
+          },
+          "accessedAt": {
+            "type": "string",
+            "format": "date"
+          },
+          "primary": {
+            "type": "boolean"
+          },
+          "claims": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          }
+        },
+        "required": ["id", "url", "accessedAt", "primary", "claims"],
+        "additionalProperties": false
+      }
+    },
+    "script": {
+      "type": "string"
+    },
+    "narration": {
+      "type": "string"
+    },
+    "scenes": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^[a-z0-9-]+$"
+          },
+          "function": {
+            "type": "string",
+            "enum": [
+              "gancho",
+              "contexto",
+              "descoberta",
+              "desenvolvimento",
+              "complicacao",
+              "revelacao",
+              "conclusao",
+              "desfecho"
+            ]
+          },
+          "framing": {
+            "type": "string",
+            "minLength": 1
+          },
+          "action": {
+            "type": "string",
+            "minLength": 1
+          },
+          "character": {
+            "type": "string",
+            "enum": ["personagem_1", "personagem_2", "both", "none"]
+          },
+          "pose": {
+            "type": "string",
+            "enum": ["neutro", "apresentando", "pensativo", "entusiasmado"]
+          },
+          "emotion": {
+            "type": "string",
+            "minLength": 1
+          },
+          "assets": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "sourceIds": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "evidence": {
+            "type": "string",
+            "enum": ["fact", "inference", "fiction"]
+          },
+          "layout": {
+            "type": "string",
+            "enum": ["solo", "duo", "interface", "object", "reveal"]
+          },
+          "backgroundId": {
+            "type": "string",
+            "minLength": 1
+          },
+          "objectId": {
+            "type": "string"
+          },
+          "title": {
+            "type": "string",
+            "minLength": 1
+          },
+          "screenText": {
+            "type": "string",
+            "minLength": 1
+          },
+          "durationSeconds": {
+            "type": "number",
+            "exclusiveMinimum": 0
+          },
+          "transitionSeconds": {
+            "type": "number",
+            "minimum": 0
+          }
+        },
+        "required": [
+          "id",
+          "function",
+          "framing",
+          "action",
+          "character",
+          "pose",
+          "emotion",
+          "assets",
+          "sourceIds",
+          "evidence",
+          "layout",
+          "backgroundId",
+          "objectId",
+          "title",
+          "screenText",
+          "durationSeconds",
+          "transitionSeconds"
+        ],
+        "additionalProperties": false
+      },
+      "minItems": 1
+    },
+    "timelineUnit": {
+      "const": "seconds"
+    },
+    "audio": {
+      "type": "object",
+      "properties": {
+        "status": {
+          "type": "string",
+          "enum": ["not-configured", "pending", "ready"]
+        },
+        "file": {
+          "type": "string"
+        },
+        "durationSeconds": {
+          "type": "number",
+          "minimum": 0
+        },
+        "provider": {
+          "type": "string"
+        },
+        "voice": {
+          "type": "string"
+        },
+        "pronunciationNotes": {
+          "type": "string"
+        },
+        "rightsReviewed": {
+          "type": "boolean"
+        }
+      },
+      "required": [
+        "status",
+        "file",
+        "durationSeconds",
+        "provider",
+        "voice",
+        "pronunciationNotes",
+        "rightsReviewed"
+      ],
+      "additionalProperties": false
+    },
+    "captions": {
+      "type": "object",
+      "properties": {
+        "status": {
+          "type": "string",
+          "enum": ["pending", "estimated", "ready"]
+        },
+        "file": {
+          "type": "string"
+        },
+        "timingOrigin": {
+          "type": "string",
+          "enum": ["none", "estimated", "human-audio", "tts-word-boundaries"]
+        }
+      },
+      "required": ["status", "file", "timingOrigin"],
+      "additionalProperties": false
+    },
+    "missingAssets": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "reason": {
+            "type": "string",
+            "minLength": 1
+          },
+          "method": {
+            "type": "string",
+            "minLength": 1
+          },
+          "status": {
+            "type": "string",
+            "enum": ["pending", "resolved"]
+          }
+        },
+        "required": ["id", "reason", "method", "status"],
+        "additionalProperties": false
+      }
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "brief",
+        "research",
+        "script",
+        "storyboard",
+        "assets",
+        "animation",
+        "narration",
+        "captions",
+        "qa",
+        "ready-to-export",
+        "exported"
+      ]
+    },
+    "revisions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "version": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "note": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "required": ["version", "note"],
+        "additionalProperties": false
+      }
+    },
+    "records": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "object",
+        "properties": {
+          "inputHash": {
+            "type": "string",
+            "minLength": 1
+          },
+          "at": {
+            "type": "string",
+            "minLength": 1
+          },
+          "toolVersions": {
+            "type": "object"
+          },
+          "outputs": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "path": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "sha256": {
+                  "type": "string",
+                  "minLength": 1
+                }
+              },
+              "required": ["path", "sha256"],
+              "additionalProperties": false
+            }
+          }
+        },
+        "required": ["inputHash", "at", "toolVersions", "outputs"],
+        "additionalProperties": false
+      }
+    },
+    "qa": {
+      "type": "object",
+      "properties": {
+        "inputHash": {
+          "type": "string"
+        },
+        "reviewer": {
+          "type": "string"
+        },
+        "visual": {
+          "type": "boolean"
+        },
+        "audio": {
+          "type": "boolean"
+        },
+        "editorial": {
+          "type": "boolean"
+        },
+        "rights": {
+          "type": "boolean"
+        },
+        "notes": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "inputHash",
+        "reviewer",
+        "visual",
+        "audio",
+        "editorial",
+        "rights",
+        "notes"
+      ],
+      "additionalProperties": false
+    }
+  },
+  "required": [
+    "schemaVersion",
+    "id",
+    "version",
+    "topic",
+    "audience",
+    "objective",
+    "format",
+    "targetDurationSeconds",
+    "fps",
+    "preset",
+    "maxSizeMB",
+    "sources",
+    "script",
+    "narration",
+    "scenes",
+    "timelineUnit",
+    "audio",
+    "captions",
+    "missingAssets",
+    "status",
+    "revisions",
+    "records",
+    "qa"
+  ],
+  "additionalProperties": false
+}
