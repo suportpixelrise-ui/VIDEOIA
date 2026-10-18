@@ -1,0 +1,37 @@
+{
+  "voice": "pt-BR-AntonioNeural",
+  "text": "E você, vai ficar de fora?",
+  "rate": "+0%",
+  "words": [
+    {
+      "offset": 1000000,
+      "duration": 1125000,
+      "text": "E"
+    },
+    {
+      "offset": 2250000,
+      "duration": 4000000,
+      "text": "você"
+    },
+    {
+      "offset": 9000000,
+      "duration": 1500000,
+      "text": "vai"
+    },
+    {
+      "offset": 10625000,
+      "duration": 3250000,
+      "text": "ficar"
+    },
+    {
+      "offset": 14000000,
+      "duration": 1125000,
+      "text": "de"
+    },
+    {
+      "offset": 15250000,
+      "duration": 3875000,
+      "text": "fora"
+    }
+  ]
+}

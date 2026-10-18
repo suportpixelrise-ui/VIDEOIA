@@ -1,0 +1,87 @@
+{
+  "voice": "pt-BR-AntonioNeural",
+  "rate": "+0%",
+  "text": "Zero a noventa e sete em menos de um segundo? Afirmação da Tesla. Não medimos isso.",
+  "words": [
+    {
+      "offset": 1000000,
+      "duration": 3250000,
+      "text": "Zero"
+    },
+    {
+      "offset": 4375000,
+      "duration": 125000,
+      "text": "a"
+    },
+    {
+      "offset": 4625000,
+      "duration": 4000000,
+      "text": "noventa"
+    },
+    {
+      "offset": 8750000,
+      "duration": 250000,
+      "text": "e"
+    },
+    {
+      "offset": 9125000,
+      "duration": 3000000,
+      "text": "sete"
+    },
+    {
+      "offset": 12250000,
+      "duration": 625000,
+      "text": "em"
+    },
+    {
+      "offset": 13000000,
+      "duration": 3375000,
+      "text": "menos"
+    },
+    {
+      "offset": 16500000,
+      "duration": 750000,
+      "text": "de"
+    },
+    {
+      "offset": 17375000,
+      "duration": 750000,
+      "text": "um"
+    },
+    {
+      "offset": 18250000,
+      "duration": 5250000,
+      "text": "segundo"
+    },
+    {
+      "offset": 32125000,
+      "duration": 7625000,
+      "text": "Afirmação"
+    },
+    {
+      "offset": 39875000,
+      "duration": 1375000,
+      "text": "da"
+    },
+    {
+      "offset": 41375000,
+      "duration": 4875000,
+      "text": "Tesla"
+    },
+    {
+      "offset": 54875000,
+      "duration": 2500000,
+      "text": "Não"
+    },
+    {
+      "offset": 57500000,
+      "duration": 4000000,
+      "text": "medimos"
+    },
+    {
+      "offset": 61625000,
+      "duration": 4625000,
+      "text": "isso"
+    }
+  ]
+}

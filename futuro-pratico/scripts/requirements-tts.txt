@@ -1,0 +1,2 @@
+# Separate Python tool only. No React/Remotion reinstall is needed.
+edge-tts==7.3.1

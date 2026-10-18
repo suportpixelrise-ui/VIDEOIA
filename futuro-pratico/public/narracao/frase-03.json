@@ -1,0 +1,17 @@
+{
+  "voice": "pt-BR-AntonioNeural",
+  "text": "automatizar tarefas",
+  "rate": "+0%",
+  "words": [
+    {
+      "offset": 1000000,
+      "duration": 8000000,
+      "text": "automatizar"
+    },
+    {
+      "offset": 9125000,
+      "duration": 7000000,
+      "text": "tarefas"
+    }
+  ]
+}

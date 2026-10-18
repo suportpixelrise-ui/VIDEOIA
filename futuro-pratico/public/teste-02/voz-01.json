@@ -1,0 +1,32 @@
+{
+  "text": "Ainda copia e cola pedidos?",
+  "voice": "pt-BR-AntonioNeural",
+  "rate": "+0%",
+  "words": [
+    {
+      "offset": 1000000,
+      "duration": 3750000,
+      "text": "Ainda"
+    },
+    {
+      "offset": 4875000,
+      "duration": 4000000,
+      "text": "copia"
+    },
+    {
+      "offset": 9000000,
+      "duration": 500000,
+      "text": "e"
+    },
+    {
+      "offset": 9625000,
+      "duration": 3125000,
+      "text": "cola"
+    },
+    {
+      "offset": 12875000,
+      "duration": 6125000,
+      "text": "pedidos"
+    }
+  ]
+}

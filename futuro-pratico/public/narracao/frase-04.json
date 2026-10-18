@@ -1,0 +1,27 @@
+{
+  "voice": "pt-BR-AntonioNeural",
+  "text": "e produzir conteúdos incríveis.",
+  "rate": "+0%",
+  "words": [
+    {
+      "offset": 1000000,
+      "duration": 1125000,
+      "text": "e"
+    },
+    {
+      "offset": 2250000,
+      "duration": 5375000,
+      "text": "produzir"
+    },
+    {
+      "offset": 7750000,
+      "duration": 5625000,
+      "text": "conteúdos"
+    },
+    {
+      "offset": 13500000,
+      "duration": 7750000,
+      "text": "incríveis"
+    }
+  ]
+}

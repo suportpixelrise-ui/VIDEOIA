@@ -1,0 +1,72 @@
+{
+  "voice": "pt-BR-AntonioNeural",
+  "rate": "+0%",
+  "text": "Na letra miúda, a Tesla avisa: versão Rocket, não aprovada para vias públicas.",
+  "words": [
+    {
+      "offset": 1000000,
+      "duration": 1875000,
+      "text": "Na"
+    },
+    {
+      "offset": 3000000,
+      "duration": 3125000,
+      "text": "letra"
+    },
+    {
+      "offset": 6250000,
+      "duration": 4375000,
+      "text": "miúda"
+    },
+    {
+      "offset": 12625000,
+      "duration": 1125000,
+      "text": "a"
+    },
+    {
+      "offset": 13875000,
+      "duration": 3500000,
+      "text": "Tesla"
+    },
+    {
+      "offset": 17500000,
+      "duration": 4000000,
+      "text": "avisa"
+    },
+    {
+      "offset": 25250000,
+      "duration": 4500000,
+      "text": "versão"
+    },
+    {
+      "offset": 29875000,
+      "duration": 4625000,
+      "text": "Rocket"
+    },
+    {
+      "offset": 37125000,
+      "duration": 2125000,
+      "text": "não"
+    },
+    {
+      "offset": 39375000,
+      "duration": 5625000,
+      "text": "aprovada"
+    },
+    {
+      "offset": 45125000,
+      "duration": 1875000,
+      "text": "para"
+    },
+    {
+      "offset": 47125000,
+      "duration": 2875000,
+      "text": "vias"
+    },
+    {
+      "offset": 50125000,
+      "duration": 6125000,
+      "text": "públicas"
+    }
+  ]
+}

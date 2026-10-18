@@ -1,0 +1,57 @@
+{
+  "voice": "pt-BR-AntonioNeural",
+  "rate": "+0%",
+  "text": "Quinze de outubro, Texas. A Tesla demonstrou o novo Roadster.",
+  "words": [
+    {
+      "offset": 1000000,
+      "duration": 3500000,
+      "text": "Quinze"
+    },
+    {
+      "offset": 4625000,
+      "duration": 875000,
+      "text": "de"
+    },
+    {
+      "offset": 5625000,
+      "duration": 5000000,
+      "text": "outubro"
+    },
+    {
+      "offset": 13125000,
+      "duration": 6250000,
+      "text": "Texas"
+    },
+    {
+      "offset": 28000000,
+      "duration": 1375000,
+      "text": "A"
+    },
+    {
+      "offset": 29500000,
+      "duration": 4250000,
+      "text": "Tesla"
+    },
+    {
+      "offset": 33875000,
+      "duration": 4750000,
+      "text": "demonstrou"
+    },
+    {
+      "offset": 38750000,
+      "duration": 500000,
+      "text": "o"
+    },
+    {
+      "offset": 39375000,
+      "duration": 3125000,
+      "text": "novo"
+    },
+    {
+      "offset": 42625000,
+      "duration": 5625000,
+      "text": "Roadster"
+    }
+  ]
+}

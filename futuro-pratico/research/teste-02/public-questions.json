@@ -1,0 +1,31 @@
+{
+  "query": "repo:n8n-io/n8n gmail is:issue",
+  "retrieved": "2026-10-16",
+  "items": [
+    {
+      "title": "N8N Creator Login Bug: Email Case Sensitivity resolve Login Failure",
+      "url": "https://github.com/n8n-io/n8n/issues/40972",
+      "created_at": "2026-10-13T10:43:05Z"
+    },
+    {
+      "title": "IF node: Incorrect string comparison when mixing Expression and Fixed values",
+      "url": "https://github.com/n8n-io/n8n/issues/40694",
+      "created_at": "2026-10-08T14:57:34Z"
+    },
+    {
+      "title": "Dynamic Multi-Action AI Tool Nodes (Unified Tool Definition for AI Agents)",
+      "url": "https://github.com/n8n-io/n8n/issues/39932",
+      "created_at": "2026-09-30T02:10:41Z"
+    },
+    {
+      "title": "Queue mode: webhook binary data stays under executions/temp and is never pruned (restoreBinaryDataId not called for scaling executions)",
+      "url": "https://github.com/n8n-io/n8n/issues/39928",
+      "created_at": "2026-09-29T19:41:18Z"
+    },
+    {
+      "title": "All code nodes erroring out for nuvocargo-prd.app.n8n",
+      "url": "https://github.com/n8n-io/n8n/issues/39412",
+      "created_at": "2026-09-23T14:21:15Z"
+    }
+  ]
+}

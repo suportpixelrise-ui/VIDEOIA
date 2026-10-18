@@ -1,0 +1,27 @@
+{
+  "voice": "pt-BR-AntonioNeural",
+  "text": "O futuro já começou.",
+  "rate": "+0%",
+  "words": [
+    {
+      "offset": 1000000,
+      "duration": 1125000,
+      "text": "O"
+    },
+    {
+      "offset": 2250000,
+      "duration": 5000000,
+      "text": "futuro"
+    },
+    {
+      "offset": 7375000,
+      "duration": 1750000,
+      "text": "já"
+    },
+    {
+      "offset": 9250000,
+      "duration": 6000000,
+      "text": "começou"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "text": "A saída não é só conversar com um chatbot. É conectar as etapas, com IA e regras claras.",
+  "voice": "pt-BR-AntonioNeural",
+  "rate": "+0%",
+  "words": [
+    {
+      "offset": 1000000,
+      "duration": 1125000,
+      "text": "A"
+    },
+    {
+      "offset": 2250000,
+      "duration": 4375000,
+      "text": "saída"
+    },
+    {
+      "offset": 6750000,
+      "duration": 1875000,
+      "text": "não"
+    },
+    {
+      "offset": 8750000,
+      "duration": 500000,
+      "text": "é"
+    },
+    {
+      "offset": 9375000,
+      "duration": 2000000,
+      "text": "só"
+    },
+    {
+      "offset": 11500000,
+      "duration": 5875000,
+      "text": "conversar"
+    },
+    {
+      "offset": 17500000,
+      "duration": 1750000,
+      "text": "com"
+    },
+    {
+      "offset": 19375000,
+      "duration": 750000,
+      "text": "um"
+    },
+    {
+      "offset": 20250000,
+      "duration": 7375000,
+      "text": "chatbot"
+    },
+    {
+      "offset": 36250000,
+      "duration": 1250000,
+      "text": "É"
+    },
+    {
+      "offset": 37625000,
+      "duration": 5250000,
+      "text": "conectar"
+    },
+    {
+      "offset": 43000000,
+      "duration": 375000,
+      "text": "as"
+    },
+    {
+      "offset": 43500000,
+      "duration": 6125000,
+      "text": "etapas"
+    },
+    {
+      "offset": 51750000,
+      "duration": 1250000,
+      "text": "com"
+    },
+    {
+      "offset": 53125000,
+      "duration": 12750000,
+      "text": "IA"
+    },
+    {
+      "offset": 66000000,
+      "duration": 375000,
+      "text": "e"
+    },
+    {
+      "offset": 66500000,
+      "duration": 4000000,
+      "text": "regras"
+    },
+    {
+      "offset": 70625000,
+      "duration": 5500000,
+      "text": "claras"
+    }
+  ]
+}

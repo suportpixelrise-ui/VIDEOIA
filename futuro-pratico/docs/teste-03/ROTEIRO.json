@@ -1,0 +1,48 @@
+{
+  "title": "O Tesla que salta — e a letra miúda",
+  "voice": "pt-BR-AntonioNeural",
+  "chapters": [
+    {
+      "id": "hook",
+      "seconds": 5,
+      "text": "Um Tesla saltou e girou no ar. Mas olhe a letra miúda.",
+      "direction": "Cupê ilustrativo sai do chão e gira; sombra permanece no piso. Identificação explícita: reconstituição, não filmagem."
+    },
+    {
+      "id": "event",
+      "seconds": 5,
+      "text": "Quinze de outubro, Texas. A Tesla demonstrou o novo Roadster.",
+      "direction": "Carro pousa no mesmo ambiente; localização Texas e data do evento aparecem como anotação jornalística, com atribuição à AP."
+    },
+    {
+      "id": "mechanism",
+      "seconds": 9,
+      "text": "Propulsores de gás frio expulsam gás numa direção. O carro recebe impulso na outra. A Tesla diz usar tecnologia da SpaceX.",
+      "direction": "A carroceria torna-se translúcida; reservatório, válvula e bocal conceituais revelam o caminho do gás. Setas opostas explicam impulso sem chama."
+    },
+    {
+      "id": "limit",
+      "seconds": 8,
+      "text": "Só que saltar não prova voo contínuo. Sustentar o peso exige empuxo. E o gás é limitado.",
+      "direction": "Salto em arco é comparado a sustentação contínua. Setas de força e peso e um reservatório conceitual mostram a exigência de gás, sem inventar autonomia."
+    },
+    {
+      "id": "claim",
+      "seconds": 7,
+      "text": "Zero a noventa e sete em menos de um segundo? Afirmação da Tesla. Não medimos isso.",
+      "direction": "O carro cruza uma pista estilizada. A anotação 0–60mph, aproximadamente97km/h, vem marcada como anúncio da versãoThrust, não cronômetro real."
+    },
+    {
+      "id": "history",
+      "seconds": 8,
+      "text": "O projeto surgiu em dois mil e dezessete. Musk fala em produção para dois mil e vinte e oito.",
+      "direction": "Fotos autênticas de2019 do protótipo anterior, com autoria e licença visíveis. Linha do tempo distingue origem2017, evento2026 e previsão2028 atribuída aMusk."
+    },
+    {
+      "id": "fineprint",
+      "seconds": 8,
+      "text": "Na letra miúda, a Tesla avisa: versão Rocket, não aprovada para vias públicas.",
+      "direction": "O carro ilustrado aproxima-se da via e para; a nota oficial da versãoRocket é revelada. Fecho: demonstração não equivale a uso rodoviário autorizado."
+    }
+  ]
+}

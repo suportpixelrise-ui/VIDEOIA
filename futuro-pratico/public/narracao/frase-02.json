@@ -1,0 +1,37 @@
+{
+  "voice": "pt-BR-AntonioNeural",
+  "text": "Com ela, você pode criar sites,",
+  "rate": "+0%",
+  "words": [
+    {
+      "offset": 1000000,
+      "duration": 2500000,
+      "text": "Com"
+    },
+    {
+      "offset": 3625000,
+      "duration": 2625000,
+      "text": "ela"
+    },
+    {
+      "offset": 8875000,
+      "duration": 2375000,
+      "text": "você"
+    },
+    {
+      "offset": 11375000,
+      "duration": 2625000,
+      "text": "pode"
+    },
+    {
+      "offset": 14125000,
+      "duration": 3125000,
+      "text": "criar"
+    },
+    {
+      "offset": 17375000,
+      "duration": 6000000,
+      "text": "sites"
+    }
+  ]
+}

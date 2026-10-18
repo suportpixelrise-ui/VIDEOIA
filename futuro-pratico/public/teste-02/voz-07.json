@@ -1,0 +1,107 @@
+{
+  "text": "O ganho é reduzir o trabalho repetitivo. O tempo economizado varia. Meça o antes e o depois, incluindo a revisão.",
+  "voice": "pt-BR-AntonioNeural",
+  "rate": "+0%",
+  "words": [
+    {
+      "offset": 1000000,
+      "duration": 1250000,
+      "text": "O"
+    },
+    {
+      "offset": 2375000,
+      "duration": 3000000,
+      "text": "ganho"
+    },
+    {
+      "offset": 5500000,
+      "duration": 375000,
+      "text": "é"
+    },
+    {
+      "offset": 6000000,
+      "duration": 4750000,
+      "text": "reduzir"
+    },
+    {
+      "offset": 10875000,
+      "duration": 375000,
+      "text": "o"
+    },
+    {
+      "offset": 11375000,
+      "duration": 4375000,
+      "text": "trabalho"
+    },
+    {
+      "offset": 15875000,
+      "duration": 7500000,
+      "text": "repetitivo"
+    },
+    {
+      "offset": 32000000,
+      "duration": 1750000,
+      "text": "O"
+    },
+    {
+      "offset": 33875000,
+      "duration": 3250000,
+      "text": "tempo"
+    },
+    {
+      "offset": 37250000,
+      "duration": 7125000,
+      "text": "economizado"
+    },
+    {
+      "offset": 44500000,
+      "duration": 4125000,
+      "text": "varia"
+    },
+    {
+      "offset": 57250000,
+      "duration": 4000000,
+      "text": "Meça"
+    },
+    {
+      "offset": 61375000,
+      "duration": 625000,
+      "text": "o"
+    },
+    {
+      "offset": 62125000,
+      "duration": 3125000,
+      "text": "antes"
+    },
+    {
+      "offset": 65375000,
+      "duration": 1250000,
+      "text": "e"
+    },
+    {
+      "offset": 66750000,
+      "duration": 375000,
+      "text": "o"
+    },
+    {
+      "offset": 67250000,
+      "duration": 4875000,
+      "text": "depois"
+    },
+    {
+      "offset": 74375000,
+      "duration": 5500000,
+      "text": "incluindo"
+    },
+    {
+      "offset": 80000000,
+      "duration": 375000,
+      "text": "a"
+    },
+    {
+      "offset": 80500000,
+      "duration": 5500000,
+      "text": "revisão"
+    }
+  ]
+}

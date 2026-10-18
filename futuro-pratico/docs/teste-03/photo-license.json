@@ -1,0 +1,84 @@
+{
+  "filePage": "https://commons.wikimedia.org/wiki/File:Tesla_Roadster_2.0_(47619421652).jpg",
+  "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Tesla_Roadster_2.0_%2847619421652%29.jpg",
+  "author": "Steve Jurvetson",
+  "photographed": "2019-04-22",
+  "license": "CC BY 2.0",
+  "licenseURL": "https://creativecommons.org/licenses/by/2.0/",
+  "changes": "Reenquadramento e movimento de câmera na edição; foto histórica identificada na tela.",
+  "sourceMetadata": {
+    "DateTime": {
+      "value": "2020-03-06 20:32:27",
+      "source": "mediawiki-metadata",
+      "hidden": ""
+    },
+    "ObjectName": {
+      "value": "Tesla Roadster 2.0 (47619421652)",
+      "source": "mediawiki-metadata"
+    },
+    "CommonsMetadataExtension": {
+      "value": 1.2,
+      "source": "extension",
+      "hidden": ""
+    },
+    "Categories": {
+      "value": "Photographs by Steve Jurvetson|Flickr images reviewed by FlickreviewR 2|Red Tesla automobiles|Tesla Roadster (2017)",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "Assessments": {
+      "value": "",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "ImageDescription": {
+      "value": "At Tesla HQ today",
+      "source": "commons-desc-page"
+    },
+    "DateTimeOriginal": {
+      "value": "2019-04-22 12:00",
+      "source": "commons-desc-page"
+    },
+    "Credit": {
+      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/jurvetson/47619421652/\">Tesla Roadster 2.0</a>",
+      "source": "commons-desc-page"
+    },
+    "Artist": {
+      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/44124348109@N01\">Steve Jurvetson</a> from Menlo Park, USA",
+      "source": "commons-desc-page"
+    },
+    "LicenseShortName": {
+      "value": "CC BY 2.0",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "UsageTerms": {
+      "value": "Creative Commons Attribution 2.0",
+      "source": "commons-desc-page"
+    },
+    "AttributionRequired": {
+      "value": "true",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "LicenseUrl": {
+      "value": "https://creativecommons.org/licenses/by/2.0",
+      "source": "commons-desc-page"
+    },
+    "Copyrighted": {
+      "value": "True",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "Restrictions": {
+      "value": "",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "License": {
+      "value": "cc-by-2.0",
+      "source": "commons-templates",
+      "hidden": ""
+    }
+  }
+}

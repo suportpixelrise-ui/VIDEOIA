@@ -1,0 +1,112 @@
+{
+  "voice": "pt-BR-AntonioNeural",
+  "rate": "+0%",
+  "text": "Propulsores de gás frio expulsam gás numa direção. O carro recebe impulso na outra. A Tesla diz usar tecnologia da SpaceX.",
+  "words": [
+    {
+      "offset": 1000000,
+      "duration": 7375000,
+      "text": "Propulsores"
+    },
+    {
+      "offset": 8500000,
+      "duration": 875000,
+      "text": "de"
+    },
+    {
+      "offset": 9500000,
+      "duration": 2750000,
+      "text": "gás"
+    },
+    {
+      "offset": 12375000,
+      "duration": 3000000,
+      "text": "frio"
+    },
+    {
+      "offset": 15500000,
+      "duration": 5500000,
+      "text": "expulsam"
+    },
+    {
+      "offset": 21125000,
+      "duration": 2875000,
+      "text": "gás"
+    },
+    {
+      "offset": 24125000,
+      "duration": 2500000,
+      "text": "numa"
+    },
+    {
+      "offset": 26750000,
+      "duration": 5250000,
+      "text": "direção"
+    },
+    {
+      "offset": 40625000,
+      "duration": 1625000,
+      "text": "O"
+    },
+    {
+      "offset": 42375000,
+      "duration": 3375000,
+      "text": "carro"
+    },
+    {
+      "offset": 45875000,
+      "duration": 4625000,
+      "text": "recebe"
+    },
+    {
+      "offset": 50625000,
+      "duration": 4375000,
+      "text": "impulso"
+    },
+    {
+      "offset": 55125000,
+      "duration": 1500000,
+      "text": "na"
+    },
+    {
+      "offset": 56750000,
+      "duration": 3375000,
+      "text": "outra"
+    },
+    {
+      "offset": 68750000,
+      "duration": 1250000,
+      "text": "A"
+    },
+    {
+      "offset": 70125000,
+      "duration": 3750000,
+      "text": "Tesla"
+    },
+    {
+      "offset": 74000000,
+      "duration": 1875000,
+      "text": "diz"
+    },
+    {
+      "offset": 76000000,
+      "duration": 4000000,
+      "text": "usar"
+    },
+    {
+      "offset": 80125000,
+      "duration": 7375000,
+      "text": "tecnologia"
+    },
+    {
+      "offset": 87625000,
+      "duration": 1000000,
+      "text": "da"
+    },
+    {
+      "offset": 88750000,
+      "duration": 8250000,
+      "text": "SpaceX"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "text": "Os dados viram uma tarefa. Depois, a IA prepara uma resposta com as informações que você forneceu.",
+  "voice": "pt-BR-AntonioNeural",
+  "rate": "+0%",
+  "words": [
+    {
+      "offset": 1000000,
+      "duration": 1750000,
+      "text": "Os"
+    },
+    {
+      "offset": 2875000,
+      "duration": 4375000,
+      "text": "dados"
+    },
+    {
+      "offset": 7375000,
+      "duration": 3125000,
+      "text": "viram"
+    },
+    {
+      "offset": 10625000,
+      "duration": 1625000,
+      "text": "uma"
+    },
+    {
+      "offset": 12375000,
+      "duration": 5125000,
+      "text": "tarefa"
+    },
+    {
+      "offset": 26125000,
+      "duration": 6125000,
+      "text": "Depois"
+    },
+    {
+      "offset": 33500000,
+      "duration": 625000,
+      "text": "a"
+    },
+    {
+      "offset": 34250000,
+      "duration": 12750000,
+      "text": "IA"
+    },
+    {
+      "offset": 47125000,
+      "duration": 2875000,
+      "text": "prepara"
+    },
+    {
+      "offset": 50125000,
+      "duration": 1250000,
+      "text": "uma"
+    },
+    {
+      "offset": 51500000,
+      "duration": 5750000,
+      "text": "resposta"
+    },
+    {
+      "offset": 57375000,
+      "duration": 1375000,
+      "text": "com"
+    },
+    {
+      "offset": 58875000,
+      "duration": 375000,
+      "text": "as"
+    },
+    {
+      "offset": 59375000,
+      "duration": 7625000,
+      "text": "informações"
+    },
+    {
+      "offset": 67125000,
+      "duration": 875000,
+      "text": "que"
+    },
+    {
+      "offset": 68125000,
+      "duration": 2500000,
+      "text": "você"
+    },
+    {
+      "offset": 70750000,
+      "duration": 6375000,
+      "text": "forneceu"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "text": "Agora, a trava importante: nada é enviado sem sua aprovação. Faltou informação? O fluxo pede revisão. Não é para inventar.",
+  "voice": "pt-BR-AntonioNeural",
+  "rate": "+0%",
+  "words": [
+    {
+      "offset": 1000000,
+      "duration": 5000000,
+      "text": "Agora"
+    },
+    {
+      "offset": 8375000,
+      "duration": 1000000,
+      "text": "a"
+    },
+    {
+      "offset": 9500000,
+      "duration": 2875000,
+      "text": "trava"
+    },
+    {
+      "offset": 12500000,
+      "duration": 6250000,
+      "text": "importante"
+    },
+    {
+      "offset": 21250000,
+      "duration": 2875000,
+      "text": "nada"
+    },
+    {
+      "offset": 24250000,
+      "duration": 375000,
+      "text": "é"
+    },
+    {
+      "offset": 24750000,
+      "duration": 5750000,
+      "text": "enviado"
+    },
+    {
+      "offset": 30625000,
+      "duration": 2500000,
+      "text": "sem"
+    },
+    {
+      "offset": 33250000,
+      "duration": 2125000,
+      "text": "sua"
+    },
+    {
+      "offset": 35500000,
+      "duration": 6000000,
+      "text": "aprovação"
+    },
+    {
+      "offset": 50125000,
+      "duration": 5000000,
+      "text": "Faltou"
+    },
+    {
+      "offset": 55250000,
+      "duration": 7250000,
+      "text": "informação"
+    },
+    {
+      "offset": 71125000,
+      "duration": 1000000,
+      "text": "O"
+    },
+    {
+      "offset": 72250000,
+      "duration": 5250000,
+      "text": "fluxo"
+    },
+    {
+      "offset": 77625000,
+      "duration": 3125000,
+      "text": "pede"
+    },
+    {
+      "offset": 80875000,
+      "duration": 5375000,
+      "text": "revisão"
+    },
+    {
+      "offset": 94875000,
+      "duration": 3000000,
+      "text": "Não"
+    },
+    {
+      "offset": 98000000,
+      "duration": 1000000,
+      "text": "é"
+    },
+    {
+      "offset": 99125000,
+      "duration": 1500000,
+      "text": "para"
+    },
+    {
+      "offset": 100750000,
+      "duration": 5000000,
+      "text": "inventar"
+    }
+  ]
+}

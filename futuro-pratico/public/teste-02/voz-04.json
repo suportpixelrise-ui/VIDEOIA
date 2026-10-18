@@ -1,0 +1,87 @@
+{
+  "text": "Veja: um cliente pede uma proposta para sexta. O fluxo identifica o assunto e o prazo.",
+  "voice": "pt-BR-AntonioNeural",
+  "rate": "+0%",
+  "words": [
+    {
+      "offset": 1000000,
+      "duration": 4750000,
+      "text": "Veja"
+    },
+    {
+      "offset": 8250000,
+      "duration": 1625000,
+      "text": "um"
+    },
+    {
+      "offset": 10000000,
+      "duration": 4375000,
+      "text": "cliente"
+    },
+    {
+      "offset": 14500000,
+      "duration": 2250000,
+      "text": "pede"
+    },
+    {
+      "offset": 16875000,
+      "duration": 1250000,
+      "text": "uma"
+    },
+    {
+      "offset": 18250000,
+      "duration": 5500000,
+      "text": "proposta"
+    },
+    {
+      "offset": 23875000,
+      "duration": 1875000,
+      "text": "para"
+    },
+    {
+      "offset": 25875000,
+      "duration": 4625000,
+      "text": "sexta"
+    },
+    {
+      "offset": 39125000,
+      "duration": 1125000,
+      "text": "O"
+    },
+    {
+      "offset": 40375000,
+      "duration": 4375000,
+      "text": "fluxo"
+    },
+    {
+      "offset": 44875000,
+      "duration": 5625000,
+      "text": "identifica"
+    },
+    {
+      "offset": 50625000,
+      "duration": 500000,
+      "text": "o"
+    },
+    {
+      "offset": 51250000,
+      "duration": 4250000,
+      "text": "assunto"
+    },
+    {
+      "offset": 55625000,
+      "duration": 375000,
+      "text": "e"
+    },
+    {
+      "offset": 56125000,
+      "duration": 625000,
+      "text": "o"
+    },
+    {
+      "offset": 56875000,
+      "duration": 4000000,
+      "text": "prazo"
+    }
+  ]
+}

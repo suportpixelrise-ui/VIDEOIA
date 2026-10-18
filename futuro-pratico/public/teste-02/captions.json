@@ -1,0 +1,919 @@
+[
+  {
+    "text": "Ainda",
+    "startMs": 200.0,
+    "endMs": 575.0,
+    "timestampMs": 387.5,
+    "confidence": null
+  },
+  {
+    "text": " copia",
+    "startMs": 587.5,
+    "endMs": 987.5,
+    "timestampMs": 787.5,
+    "confidence": null
+  },
+  {
+    "text": " e",
+    "startMs": 1000.0,
+    "endMs": 1050.0,
+    "timestampMs": 1025.0,
+    "confidence": null
+  },
+  {
+    "text": " cola",
+    "startMs": 1062.5,
+    "endMs": 1375.0,
+    "timestampMs": 1218.75,
+    "confidence": null
+  },
+  {
+    "text": " pedidos?",
+    "startMs": 1387.5,
+    "endMs": 2000.0,
+    "timestampMs": 1693.75,
+    "confidence": null
+  },
+  {
+    "text": "Chega",
+    "startMs": 3200.0,
+    "endMs": 3550.0,
+    "timestampMs": 3375.0,
+    "confidence": null
+  },
+  {
+    "text": " um",
+    "startMs": 3562.5,
+    "endMs": 3662.5,
+    "timestampMs": 3612.5,
+    "confidence": null
+  },
+  {
+    "text": " e-mail.",
+    "startMs": 3675.0,
+    "endMs": 4112.5,
+    "timestampMs": 3893.75,
+    "confidence": null
+  },
+  {
+    "text": " Você",
+    "startMs": 4975.0,
+    "endMs": 5337.5,
+    "timestampMs": 5156.25,
+    "confidence": null
+  },
+  {
+    "text": " lê,",
+    "startMs": 5350.0,
+    "endMs": 5637.5,
+    "timestampMs": 5493.75,
+    "confidence": null
+  },
+  {
+    "text": " copia",
+    "startMs": 5800.0,
+    "endMs": 6175.0,
+    "timestampMs": 5987.5,
+    "confidence": null
+  },
+  {
+    "text": " dados,",
+    "startMs": 6187.5,
+    "endMs": 6650.0,
+    "timestampMs": 6418.75,
+    "confidence": null
+  },
+  {
+    "text": " abre",
+    "startMs": 6875.0,
+    "endMs": 7125.0,
+    "timestampMs": 7000.0,
+    "confidence": null
+  },
+  {
+    "text": " a",
+    "startMs": 7137.5,
+    "endMs": 7175.0,
+    "timestampMs": 7156.25,
+    "confidence": null
+  },
+  {
+    "text": " planilha",
+    "startMs": 7187.5,
+    "endMs": 7700.0,
+    "timestampMs": 7443.75,
+    "confidence": null
+  },
+  {
+    "text": " e",
+    "startMs": 7712.5,
+    "endMs": 7750.0,
+    "timestampMs": 7731.25,
+    "confidence": null
+  },
+  {
+    "text": " escreve",
+    "startMs": 7762.5,
+    "endMs": 8200.0,
+    "timestampMs": 7981.25,
+    "confidence": null
+  },
+  {
+    "text": " a",
+    "startMs": 8212.5,
+    "endMs": 8275.0,
+    "timestampMs": 8243.75,
+    "confidence": null
+  },
+  {
+    "text": " mesma",
+    "startMs": 8287.5,
+    "endMs": 8687.5,
+    "timestampMs": 8487.5,
+    "confidence": null
+  },
+  {
+    "text": " resposta.",
+    "startMs": 8700.0,
+    "endMs": 9337.5,
+    "timestampMs": 9018.75,
+    "confidence": null
+  },
+  {
+    "text": " Tudo",
+    "startMs": 10200.0,
+    "endMs": 10450.0,
+    "timestampMs": 10325.0,
+    "confidence": null
+  },
+  {
+    "text": " de",
+    "startMs": 10462.5,
+    "endMs": 10562.5,
+    "timestampMs": 10512.5,
+    "confidence": null
+  },
+  {
+    "text": " novo.",
+    "startMs": 10575.0,
+    "endMs": 10937.5,
+    "timestampMs": 10756.25,
+    "confidence": null
+  },
+  {
+    "text": "A",
+    "startMs": 11600.0,
+    "endMs": 11712.5,
+    "timestampMs": 11656.25,
+    "confidence": null
+  },
+  {
+    "text": " saída",
+    "startMs": 11725.0,
+    "endMs": 12162.5,
+    "timestampMs": 11943.75,
+    "confidence": null
+  },
+  {
+    "text": " não",
+    "startMs": 12175.0,
+    "endMs": 12362.5,
+    "timestampMs": 12268.75,
+    "confidence": null
+  },
+  {
+    "text": " é",
+    "startMs": 12375.0,
+    "endMs": 12425.0,
+    "timestampMs": 12400.0,
+    "confidence": null
+  },
+  {
+    "text": " só",
+    "startMs": 12437.5,
+    "endMs": 12637.5,
+    "timestampMs": 12537.5,
+    "confidence": null
+  },
+  {
+    "text": " conversar",
+    "startMs": 12650.0,
+    "endMs": 13237.5,
+    "timestampMs": 12943.75,
+    "confidence": null
+  },
+  {
+    "text": " com",
+    "startMs": 13250.0,
+    "endMs": 13425.0,
+    "timestampMs": 13337.5,
+    "confidence": null
+  },
+  {
+    "text": " um",
+    "startMs": 13437.5,
+    "endMs": 13512.5,
+    "timestampMs": 13475.0,
+    "confidence": null
+  },
+  {
+    "text": " chatbot.",
+    "startMs": 13525.0,
+    "endMs": 14262.5,
+    "timestampMs": 13893.75,
+    "confidence": null
+  },
+  {
+    "text": " É",
+    "startMs": 15125.0,
+    "endMs": 15250.0,
+    "timestampMs": 15187.5,
+    "confidence": null
+  },
+  {
+    "text": " conectar",
+    "startMs": 15262.5,
+    "endMs": 15787.5,
+    "timestampMs": 15525.0,
+    "confidence": null
+  },
+  {
+    "text": " as",
+    "startMs": 15800.0,
+    "endMs": 15837.5,
+    "timestampMs": 15818.75,
+    "confidence": null
+  },
+  {
+    "text": " etapas,",
+    "startMs": 15850.0,
+    "endMs": 16462.5,
+    "timestampMs": 16156.25,
+    "confidence": null
+  },
+  {
+    "text": " com",
+    "startMs": 16675.0,
+    "endMs": 16800.0,
+    "timestampMs": 16737.5,
+    "confidence": null
+  },
+  {
+    "text": " IA",
+    "startMs": 16812.5,
+    "endMs": 18087.5,
+    "timestampMs": 17450.0,
+    "confidence": null
+  },
+  {
+    "text": " e",
+    "startMs": 18100.0,
+    "endMs": 18137.5,
+    "timestampMs": 18118.75,
+    "confidence": null
+  },
+  {
+    "text": " regras",
+    "startMs": 18150.0,
+    "endMs": 18550.0,
+    "timestampMs": 18350.0,
+    "confidence": null
+  },
+  {
+    "text": " claras.",
+    "startMs": 18562.5,
+    "endMs": 19112.5,
+    "timestampMs": 18837.5,
+    "confidence": null
+  },
+  {
+    "text": "Veja:",
+    "startMs": 19766.666666666668,
+    "endMs": 20241.666666666668,
+    "timestampMs": 20004.166666666668,
+    "confidence": null
+  },
+  {
+    "text": " um",
+    "startMs": 20491.666666666668,
+    "endMs": 20654.166666666668,
+    "timestampMs": 20572.916666666668,
+    "confidence": null
+  },
+  {
+    "text": " cliente",
+    "startMs": 20666.666666666668,
+    "endMs": 21104.166666666668,
+    "timestampMs": 20885.416666666668,
+    "confidence": null
+  },
+  {
+    "text": " pede",
+    "startMs": 21116.666666666668,
+    "endMs": 21341.666666666668,
+    "timestampMs": 21229.166666666668,
+    "confidence": null
+  },
+  {
+    "text": " uma",
+    "startMs": 21354.166666666668,
+    "endMs": 21479.166666666668,
+    "timestampMs": 21416.666666666668,
+    "confidence": null
+  },
+  {
+    "text": " proposta",
+    "startMs": 21491.666666666668,
+    "endMs": 22041.666666666668,
+    "timestampMs": 21766.666666666668,
+    "confidence": null
+  },
+  {
+    "text": " para",
+    "startMs": 22054.166666666668,
+    "endMs": 22241.666666666668,
+    "timestampMs": 22147.916666666668,
+    "confidence": null
+  },
+  {
+    "text": " sexta.",
+    "startMs": 22254.166666666668,
+    "endMs": 22716.666666666668,
+    "timestampMs": 22485.416666666668,
+    "confidence": null
+  },
+  {
+    "text": " O",
+    "startMs": 23579.166666666668,
+    "endMs": 23691.666666666668,
+    "timestampMs": 23635.416666666668,
+    "confidence": null
+  },
+  {
+    "text": " fluxo",
+    "startMs": 23704.166666666668,
+    "endMs": 24141.666666666668,
+    "timestampMs": 23922.916666666668,
+    "confidence": null
+  },
+  {
+    "text": " identifica",
+    "startMs": 24154.166666666668,
+    "endMs": 24716.666666666668,
+    "timestampMs": 24435.416666666668,
+    "confidence": null
+  },
+  {
+    "text": " o",
+    "startMs": 24729.166666666668,
+    "endMs": 24779.166666666668,
+    "timestampMs": 24754.166666666668,
+    "confidence": null
+  },
+  {
+    "text": " assunto",
+    "startMs": 24791.666666666668,
+    "endMs": 25216.666666666668,
+    "timestampMs": 25004.166666666668,
+    "confidence": null
+  },
+  {
+    "text": " e",
+    "startMs": 25229.166666666668,
+    "endMs": 25266.666666666668,
+    "timestampMs": 25247.916666666668,
+    "confidence": null
+  },
+  {
+    "text": " o",
+    "startMs": 25279.166666666668,
+    "endMs": 25341.666666666668,
+    "timestampMs": 25310.416666666668,
+    "confidence": null
+  },
+  {
+    "text": " prazo.",
+    "startMs": 25354.166666666668,
+    "endMs": 25754.166666666668,
+    "timestampMs": 25554.166666666668,
+    "confidence": null
+  },
+  {
+    "text": "Os",
+    "startMs": 26766.666666666668,
+    "endMs": 26941.666666666668,
+    "timestampMs": 26854.166666666668,
+    "confidence": null
+  },
+  {
+    "text": " dados",
+    "startMs": 26954.166666666668,
+    "endMs": 27391.666666666668,
+    "timestampMs": 27172.916666666668,
+    "confidence": null
+  },
+  {
+    "text": " viram",
+    "startMs": 27404.166666666668,
+    "endMs": 27716.666666666668,
+    "timestampMs": 27560.416666666668,
+    "confidence": null
+  },
+  {
+    "text": " uma",
+    "startMs": 27729.166666666668,
+    "endMs": 27891.666666666668,
+    "timestampMs": 27810.416666666668,
+    "confidence": null
+  },
+  {
+    "text": " tarefa.",
+    "startMs": 27904.166666666668,
+    "endMs": 28416.666666666668,
+    "timestampMs": 28160.416666666668,
+    "confidence": null
+  },
+  {
+    "text": " Depois,",
+    "startMs": 29279.166666666668,
+    "endMs": 29891.666666666668,
+    "timestampMs": 29585.416666666668,
+    "confidence": null
+  },
+  {
+    "text": " a",
+    "startMs": 30016.666666666668,
+    "endMs": 30079.166666666668,
+    "timestampMs": 30047.916666666668,
+    "confidence": null
+  },
+  {
+    "text": " IA",
+    "startMs": 30091.666666666668,
+    "endMs": 31366.666666666668,
+    "timestampMs": 30729.166666666668,
+    "confidence": null
+  },
+  {
+    "text": " prepara",
+    "startMs": 31379.166666666668,
+    "endMs": 31666.666666666668,
+    "timestampMs": 31522.916666666668,
+    "confidence": null
+  },
+  {
+    "text": " uma",
+    "startMs": 31679.166666666668,
+    "endMs": 31804.166666666668,
+    "timestampMs": 31741.666666666668,
+    "confidence": null
+  },
+  {
+    "text": " resposta",
+    "startMs": 31816.666666666668,
+    "endMs": 32391.666666666668,
+    "timestampMs": 32104.166666666668,
+    "confidence": null
+  },
+  {
+    "text": " com",
+    "startMs": 32404.166666666668,
+    "endMs": 32541.666666666668,
+    "timestampMs": 32472.916666666668,
+    "confidence": null
+  },
+  {
+    "text": " as",
+    "startMs": 32554.166666666668,
+    "endMs": 32591.666666666668,
+    "timestampMs": 32572.916666666668,
+    "confidence": null
+  },
+  {
+    "text": " informações",
+    "startMs": 32604.166666666668,
+    "endMs": 33366.66666666667,
+    "timestampMs": 32985.41666666667,
+    "confidence": null
+  },
+  {
+    "text": " que",
+    "startMs": 33379.16666666667,
+    "endMs": 33466.66666666667,
+    "timestampMs": 33422.91666666667,
+    "confidence": null
+  },
+  {
+    "text": " você",
+    "startMs": 33479.16666666667,
+    "endMs": 33729.16666666667,
+    "timestampMs": 33604.16666666667,
+    "confidence": null
+  },
+  {
+    "text": " forneceu.",
+    "startMs": 33741.66666666667,
+    "endMs": 34379.16666666667,
+    "timestampMs": 34060.41666666667,
+    "confidence": null
+  },
+  {
+    "text": "Agora,",
+    "startMs": 36766.66666666667,
+    "endMs": 37266.66666666667,
+    "timestampMs": 37016.66666666667,
+    "confidence": null
+  },
+  {
+    "text": " a",
+    "startMs": 37504.16666666667,
+    "endMs": 37604.16666666667,
+    "timestampMs": 37554.16666666667,
+    "confidence": null
+  },
+  {
+    "text": " trava",
+    "startMs": 37616.66666666667,
+    "endMs": 37904.16666666667,
+    "timestampMs": 37760.41666666667,
+    "confidence": null
+  },
+  {
+    "text": " importante:",
+    "startMs": 37916.66666666667,
+    "endMs": 38541.66666666667,
+    "timestampMs": 38229.16666666667,
+    "confidence": null
+  },
+  {
+    "text": " nada",
+    "startMs": 38791.66666666667,
+    "endMs": 39079.16666666667,
+    "timestampMs": 38935.41666666667,
+    "confidence": null
+  },
+  {
+    "text": " é",
+    "startMs": 39091.66666666667,
+    "endMs": 39129.16666666667,
+    "timestampMs": 39110.41666666667,
+    "confidence": null
+  },
+  {
+    "text": " enviado",
+    "startMs": 39141.66666666667,
+    "endMs": 39716.66666666667,
+    "timestampMs": 39429.16666666667,
+    "confidence": null
+  },
+  {
+    "text": " sem",
+    "startMs": 39729.16666666667,
+    "endMs": 39979.16666666667,
+    "timestampMs": 39854.16666666667,
+    "confidence": null
+  },
+  {
+    "text": " sua",
+    "startMs": 39991.66666666667,
+    "endMs": 40204.16666666667,
+    "timestampMs": 40097.91666666667,
+    "confidence": null
+  },
+  {
+    "text": " aprovação.",
+    "startMs": 40216.66666666667,
+    "endMs": 40816.66666666667,
+    "timestampMs": 40516.66666666667,
+    "confidence": null
+  },
+  {
+    "text": " Faltou",
+    "startMs": 41679.16666666667,
+    "endMs": 42179.16666666667,
+    "timestampMs": 41929.16666666667,
+    "confidence": null
+  },
+  {
+    "text": " informação?",
+    "startMs": 42191.66666666667,
+    "endMs": 42916.66666666667,
+    "timestampMs": 42554.16666666667,
+    "confidence": null
+  },
+  {
+    "text": " O",
+    "startMs": 43779.16666666667,
+    "endMs": 43879.16666666667,
+    "timestampMs": 43829.16666666667,
+    "confidence": null
+  },
+  {
+    "text": " fluxo",
+    "startMs": 43891.66666666667,
+    "endMs": 44416.66666666667,
+    "timestampMs": 44154.16666666667,
+    "confidence": null
+  },
+  {
+    "text": " pede",
+    "startMs": 44429.16666666667,
+    "endMs": 44741.66666666667,
+    "timestampMs": 44585.41666666667,
+    "confidence": null
+  },
+  {
+    "text": " revisão.",
+    "startMs": 44754.16666666667,
+    "endMs": 45291.66666666667,
+    "timestampMs": 45022.91666666667,
+    "confidence": null
+  },
+  {
+    "text": " Não",
+    "startMs": 46154.16666666667,
+    "endMs": 46454.16666666667,
+    "timestampMs": 46304.16666666667,
+    "confidence": null
+  },
+  {
+    "text": " é",
+    "startMs": 46466.66666666667,
+    "endMs": 46566.66666666667,
+    "timestampMs": 46516.66666666667,
+    "confidence": null
+  },
+  {
+    "text": " para",
+    "startMs": 46579.16666666667,
+    "endMs": 46729.16666666667,
+    "timestampMs": 46654.16666666667,
+    "confidence": null
+  },
+  {
+    "text": " inventar.",
+    "startMs": 46741.66666666667,
+    "endMs": 47241.66666666667,
+    "timestampMs": 46991.66666666667,
+    "confidence": null
+  },
+  {
+    "text": "O",
+    "startMs": 47900.0,
+    "endMs": 48025.0,
+    "timestampMs": 47962.5,
+    "confidence": null
+  },
+  {
+    "text": " ganho",
+    "startMs": 48037.5,
+    "endMs": 48337.5,
+    "timestampMs": 48187.5,
+    "confidence": null
+  },
+  {
+    "text": " é",
+    "startMs": 48350.0,
+    "endMs": 48387.5,
+    "timestampMs": 48368.75,
+    "confidence": null
+  },
+  {
+    "text": " reduzir",
+    "startMs": 48400.0,
+    "endMs": 48875.0,
+    "timestampMs": 48637.5,
+    "confidence": null
+  },
+  {
+    "text": " o",
+    "startMs": 48887.5,
+    "endMs": 48925.0,
+    "timestampMs": 48906.25,
+    "confidence": null
+  },
+  {
+    "text": " trabalho",
+    "startMs": 48937.5,
+    "endMs": 49375.0,
+    "timestampMs": 49156.25,
+    "confidence": null
+  },
+  {
+    "text": " repetitivo.",
+    "startMs": 49387.5,
+    "endMs": 50137.5,
+    "timestampMs": 49762.5,
+    "confidence": null
+  },
+  {
+    "text": " O",
+    "startMs": 51000.0,
+    "endMs": 51175.0,
+    "timestampMs": 51087.5,
+    "confidence": null
+  },
+  {
+    "text": " tempo",
+    "startMs": 51187.5,
+    "endMs": 51512.5,
+    "timestampMs": 51350.0,
+    "confidence": null
+  },
+  {
+    "text": " economizado",
+    "startMs": 51525.0,
+    "endMs": 52237.5,
+    "timestampMs": 51881.25,
+    "confidence": null
+  },
+  {
+    "text": " varia.",
+    "startMs": 52250.0,
+    "endMs": 52662.5,
+    "timestampMs": 52456.25,
+    "confidence": null
+  },
+  {
+    "text": " Meça",
+    "startMs": 53525.0,
+    "endMs": 53925.0,
+    "timestampMs": 53725.0,
+    "confidence": null
+  },
+  {
+    "text": " o",
+    "startMs": 53937.5,
+    "endMs": 54000.0,
+    "timestampMs": 53968.75,
+    "confidence": null
+  },
+  {
+    "text": " antes",
+    "startMs": 54012.5,
+    "endMs": 54325.0,
+    "timestampMs": 54168.75,
+    "confidence": null
+  },
+  {
+    "text": " e",
+    "startMs": 54337.5,
+    "endMs": 54462.5,
+    "timestampMs": 54400.0,
+    "confidence": null
+  },
+  {
+    "text": " o",
+    "startMs": 54475.0,
+    "endMs": 54512.5,
+    "timestampMs": 54493.75,
+    "confidence": null
+  },
+  {
+    "text": " depois,",
+    "startMs": 54525.0,
+    "endMs": 55012.5,
+    "timestampMs": 54768.75,
+    "confidence": null
+  },
+  {
+    "text": " incluindo",
+    "startMs": 55237.5,
+    "endMs": 55787.5,
+    "timestampMs": 55512.5,
+    "confidence": null
+  },
+  {
+    "text": " a",
+    "startMs": 55800.0,
+    "endMs": 55837.5,
+    "timestampMs": 55818.75,
+    "confidence": null
+  },
+  {
+    "text": " revisão.",
+    "startMs": 55850.0,
+    "endMs": 56400.0,
+    "timestampMs": 56125.0,
+    "confidence": null
+  },
+  {
+    "text": "Comece",
+    "startMs": 57900.0,
+    "endMs": 58412.5,
+    "timestampMs": 58156.25,
+    "confidence": null
+  },
+  {
+    "text": " pequeno.",
+    "startMs": 58425.0,
+    "endMs": 58900.0,
+    "timestampMs": 58662.5,
+    "confidence": null
+  },
+  {
+    "text": " Teste",
+    "startMs": 59762.5,
+    "endMs": 60112.5,
+    "timestampMs": 59937.5,
+    "confidence": null
+  },
+  {
+    "text": " com",
+    "startMs": 60125.0,
+    "endMs": 60275.0,
+    "timestampMs": 60200.0,
+    "confidence": null
+  },
+  {
+    "text": " dados",
+    "startMs": 60287.5,
+    "endMs": 60687.5,
+    "timestampMs": 60487.5,
+    "confidence": null
+  },
+  {
+    "text": " fictícios",
+    "startMs": 60700.0,
+    "endMs": 61262.5,
+    "timestampMs": 60981.25,
+    "confidence": null
+  },
+  {
+    "text": " e",
+    "startMs": 61275.0,
+    "endMs": 61375.0,
+    "timestampMs": 61325.0,
+    "confidence": null
+  },
+  {
+    "text": " confira",
+    "startMs": 61387.5,
+    "endMs": 61800.0,
+    "timestampMs": 61593.75,
+    "confidence": null
+  },
+  {
+    "text": " o",
+    "startMs": 61812.5,
+    "endMs": 61825.0,
+    "timestampMs": 61818.75,
+    "confidence": null
+  },
+  {
+    "text": " resultado.",
+    "startMs": 61837.5,
+    "endMs": 62475.0,
+    "timestampMs": 62156.25,
+    "confidence": null
+  },
+  {
+    "text": " Qual",
+    "startMs": 63337.5,
+    "endMs": 63575.0,
+    "timestampMs": 63456.25,
+    "confidence": null
+  },
+  {
+    "text": " tarefa",
+    "startMs": 63587.5,
+    "endMs": 64075.0,
+    "timestampMs": 63831.25,
+    "confidence": null
+  },
+  {
+    "text": " você",
+    "startMs": 64087.5,
+    "endMs": 64337.5,
+    "timestampMs": 64212.5,
+    "confidence": null
+  },
+  {
+    "text": " automatizaria",
+    "startMs": 64350.0,
+    "endMs": 65187.5,
+    "timestampMs": 64768.75,
+    "confidence": null
+  },
+  {
+    "text": " primeiro?",
+    "startMs": 65200.0,
+    "endMs": 65650.0,
+    "timestampMs": 65425.0,
+    "confidence": null
+  },
+  {
+    "text": " Futuro",
+    "startMs": 66512.5,
+    "endMs": 66987.5,
+    "timestampMs": 66750.0,
+    "confidence": null
+  },
+  {
+    "text": " Prático.",
+    "startMs": 67000.0,
+    "endMs": 67500.0,
+    "timestampMs": 67250.0,
+    "confidence": null
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "title": "O pedido não precisa passar pela sua mão seis vezes",
+  "voice": "pt-BR-AntonioNeural",
+  "targetSeconds": 65,
+  "chapters": [
+    {"id":"hook","seconds":3,"heading":"COPIAR. COLAR. REPETIR?","text":"Ainda copia e cola pedidos?","direction":"O mesmo pedido salta entre dois cartões. Cursor faz o trajeto e para diante de uma bifurcação."},
+    {"id":"problem","seconds":7,"heading":"O mesmo pedido. De novo.","text":"Chega um e-mail. Você lê, copia dados, abre a planilha e escreve a mesma resposta. Tudo de novo.","direction":"Câmera recua: e-mail, tabela e resposta formam um circuito repetitivo. Pequenas cópias se acumulam."},
+    {"id":"solution","seconds":8,"heading":"Conecte as etapas.","text":"A saída não é só conversar com um chatbot. É conectar as etapas, com IA e regras claras.","direction":"As peças anteriores alinham-se em trilho luminoso. Dados percorrem entrada, interpretação e revisão."},
+    {"id":"extract","seconds":7,"heading":"Um pedido vira dados.","text":"Veja: um cliente pede uma proposta para sexta. O fluxo identifica o assunto e o prazo.","direction":"Zoom no mesmo e-mail. Trechos destacados saem do texto e ocupam os campos assunto e prazo."},
+    {"id":"execute","seconds":10,"heading":"Dados viram ação.","text":"Os dados viram uma tarefa. Depois, a IA prepara uma resposta com as informações que você forneceu.","direction":"Os campos atravessam o trilho e montam uma tarefa. O texto do rascunho é revelado em sequência, sem enviar mensagem."},
+    {"id":"review","seconds":10,"heading":"A última palavra é sua.","text":"Agora, a trava importante: nada é enviado sem sua aprovação. Faltou informação? O fluxo pede revisão. Não é para inventar.","direction":"O pacote para numa trava. A câmera mostra o ramo com campo ausente, devolve para revisão e destaca a aprovação manual."},
+    {"id":"result","seconds":10,"heading":"Menos repetição. Mais controle.","text":"O ganho é reduzir o trabalho repetitivo. O tempo economizado varia. Meça o antes e o depois, incluindo a revisão.","direction":"Dois percursos: antes, quatro etapas manuais; neste exemplo, execução encadeada e revisão. Comparação conceitual sem tempo inventado."},
+    {"id":"close","seconds":10,"heading":"Qual tarefa você automatizaria?","text":"Comece pequeno. Teste com dados fictícios e confira o resultado. Qual tarefa você automatizaria primeiro? Futuro Prático.","direction":"O pacote retorna ao centro como um modelo pequeno de fluxo. Três ações concretas, pergunta final e assinatura da marca."}
+  ]
+}

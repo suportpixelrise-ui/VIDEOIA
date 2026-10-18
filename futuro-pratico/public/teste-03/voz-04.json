@@ -1,0 +1,92 @@
+{
+  "voice": "pt-BR-AntonioNeural",
+  "rate": "+0%",
+  "text": "Só que saltar não prova voo contínuo. Sustentar o peso exige empuxo. E o gás é limitado.",
+  "words": [
+    {
+      "offset": 1000000,
+      "duration": 3250000,
+      "text": "Só"
+    },
+    {
+      "offset": 4375000,
+      "duration": 1125000,
+      "text": "que"
+    },
+    {
+      "offset": 5625000,
+      "duration": 4375000,
+      "text": "saltar"
+    },
+    {
+      "offset": 10125000,
+      "duration": 1875000,
+      "text": "não"
+    },
+    {
+      "offset": 12125000,
+      "duration": 3500000,
+      "text": "prova"
+    },
+    {
+      "offset": 15750000,
+      "duration": 2000000,
+      "text": "voo"
+    },
+    {
+      "offset": 17875000,
+      "duration": 6000000,
+      "text": "contínuo"
+    },
+    {
+      "offset": 32500000,
+      "duration": 7375000,
+      "text": "Sustentar"
+    },
+    {
+      "offset": 40000000,
+      "duration": 625000,
+      "text": "o"
+    },
+    {
+      "offset": 40750000,
+      "duration": 3375000,
+      "text": "peso"
+    },
+    {
+      "offset": 44250000,
+      "duration": 3500000,
+      "text": "exige"
+    },
+    {
+      "offset": 47875000,
+      "duration": 5000000,
+      "text": "empuxo"
+    },
+    {
+      "offset": 61500000,
+      "duration": 1250000,
+      "text": "E"
+    },
+    {
+      "offset": 62875000,
+      "duration": 500000,
+      "text": "o"
+    },
+    {
+      "offset": 63500000,
+      "duration": 2500000,
+      "text": "gás"
+    },
+    {
+      "offset": 66125000,
+      "duration": 1375000,
+      "text": "é"
+    },
+    {
+      "offset": 67625000,
+      "duration": 6750000,
+      "text": "limitado"
+    }
+  ]
+}

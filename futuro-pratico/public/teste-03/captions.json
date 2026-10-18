@@ -1,0 +1,758 @@
+[
+  {
+    "text": "Um",
+    "startMs": 200.0,
+    "endMs": 412.5,
+    "timestampMs": 306.25,
+    "confidence": null
+  },
+  {
+    "text": " Tesla",
+    "startMs": 425.0,
+    "endMs": 850.0,
+    "timestampMs": 637.5,
+    "confidence": null
+  },
+  {
+    "text": " saltou",
+    "startMs": 862.5,
+    "endMs": 1300.0,
+    "timestampMs": 1081.25,
+    "confidence": null
+  },
+  {
+    "text": " e",
+    "startMs": 1312.5,
+    "endMs": 1350.0,
+    "timestampMs": 1331.25,
+    "confidence": null
+  },
+  {
+    "text": " girou",
+    "startMs": 1362.5,
+    "endMs": 1650.0,
+    "timestampMs": 1506.25,
+    "confidence": null
+  },
+  {
+    "text": " no",
+    "startMs": 1662.5,
+    "endMs": 1787.5,
+    "timestampMs": 1725.0,
+    "confidence": null
+  },
+  {
+    "text": " ar.",
+    "startMs": 1800.0,
+    "endMs": 1962.5,
+    "timestampMs": 1881.25,
+    "confidence": null
+  },
+  {
+    "text": " Mas",
+    "startMs": 2825.0,
+    "endMs": 3050.0,
+    "timestampMs": 2937.5,
+    "confidence": null
+  },
+  {
+    "text": " olhe",
+    "startMs": 3062.5,
+    "endMs": 3387.5,
+    "timestampMs": 3225.0,
+    "confidence": null
+  },
+  {
+    "text": " a",
+    "startMs": 3400.0,
+    "endMs": 3450.0,
+    "timestampMs": 3425.0,
+    "confidence": null
+  },
+  {
+    "text": " letra",
+    "startMs": 3462.5,
+    "endMs": 3800.0,
+    "timestampMs": 3631.25,
+    "confidence": null
+  },
+  {
+    "text": " miúda.",
+    "startMs": 3812.5,
+    "endMs": 4275.0,
+    "timestampMs": 4043.75,
+    "confidence": null
+  },
+  {
+    "text": "Quinze",
+    "startMs": 5200.0,
+    "endMs": 5550.0,
+    "timestampMs": 375.0,
+    "confidence": null
+  },
+  {
+    "text": " de",
+    "startMs": 5562.5,
+    "endMs": 5650.0,
+    "timestampMs": 606.25,
+    "confidence": null
+  },
+  {
+    "text": " outubro,",
+    "startMs": 5662.5,
+    "endMs": 6162.5,
+    "timestampMs": 912.5,
+    "confidence": null
+  },
+  {
+    "text": " Texas.",
+    "startMs": 6412.5,
+    "endMs": 7037.5,
+    "timestampMs": 1725.0,
+    "confidence": null
+  },
+  {
+    "text": " A",
+    "startMs": 7900.0,
+    "endMs": 8037.5,
+    "timestampMs": 2968.75,
+    "confidence": null
+  },
+  {
+    "text": " Tesla",
+    "startMs": 8050.0,
+    "endMs": 8475.0,
+    "timestampMs": 3262.5,
+    "confidence": null
+  },
+  {
+    "text": " demonstrou",
+    "startMs": 8487.5,
+    "endMs": 8962.5,
+    "timestampMs": 3725.0,
+    "confidence": null
+  },
+  {
+    "text": " o",
+    "startMs": 8975.0,
+    "endMs": 9025.0,
+    "timestampMs": 4000.0,
+    "confidence": null
+  },
+  {
+    "text": " novo",
+    "startMs": 9037.5,
+    "endMs": 9350.0,
+    "timestampMs": 4193.75,
+    "confidence": null
+  },
+  {
+    "text": " Roadster.",
+    "startMs": 9362.5,
+    "endMs": 9925.0,
+    "timestampMs": 4643.75,
+    "confidence": null
+  },
+  {
+    "text": "Propulsores",
+    "startMs": 10533.333333333334,
+    "endMs": 11270.833333333334,
+    "timestampMs": 568.75,
+    "confidence": null
+  },
+  {
+    "text": " de",
+    "startMs": 11283.333333333334,
+    "endMs": 11370.833333333334,
+    "timestampMs": 993.75,
+    "confidence": null
+  },
+  {
+    "text": " gás",
+    "startMs": 11383.333333333334,
+    "endMs": 11658.333333333334,
+    "timestampMs": 1187.5,
+    "confidence": null
+  },
+  {
+    "text": " frio",
+    "startMs": 11670.833333333334,
+    "endMs": 11970.833333333334,
+    "timestampMs": 1487.5,
+    "confidence": null
+  },
+  {
+    "text": " expulsam",
+    "startMs": 11983.333333333334,
+    "endMs": 12533.333333333334,
+    "timestampMs": 1925.0,
+    "confidence": null
+  },
+  {
+    "text": " gás",
+    "startMs": 12545.833333333334,
+    "endMs": 12833.333333333334,
+    "timestampMs": 2356.25,
+    "confidence": null
+  },
+  {
+    "text": " numa",
+    "startMs": 12845.833333333334,
+    "endMs": 13095.833333333334,
+    "timestampMs": 2637.5,
+    "confidence": null
+  },
+  {
+    "text": " direção.",
+    "startMs": 13108.333333333334,
+    "endMs": 13633.333333333334,
+    "timestampMs": 3037.5,
+    "confidence": null
+  },
+  {
+    "text": " O",
+    "startMs": 14495.833333333334,
+    "endMs": 14658.333333333334,
+    "timestampMs": 4243.75,
+    "confidence": null
+  },
+  {
+    "text": " carro",
+    "startMs": 14670.833333333334,
+    "endMs": 15008.333333333334,
+    "timestampMs": 4506.25,
+    "confidence": null
+  },
+  {
+    "text": " recebe",
+    "startMs": 15020.833333333334,
+    "endMs": 15483.333333333334,
+    "timestampMs": 4918.75,
+    "confidence": null
+  },
+  {
+    "text": " impulso",
+    "startMs": 15495.833333333334,
+    "endMs": 15933.333333333334,
+    "timestampMs": 5381.25,
+    "confidence": null
+  },
+  {
+    "text": " na",
+    "startMs": 15945.833333333334,
+    "endMs": 16095.833333333334,
+    "timestampMs": 5687.5,
+    "confidence": null
+  },
+  {
+    "text": " outra.",
+    "startMs": 16108.333333333334,
+    "endMs": 16445.833333333336,
+    "timestampMs": 5943.75,
+    "confidence": null
+  },
+  {
+    "text": " A",
+    "startMs": 17308.333333333336,
+    "endMs": 17433.333333333336,
+    "timestampMs": 7037.5,
+    "confidence": null
+  },
+  {
+    "text": " Tesla",
+    "startMs": 17445.833333333336,
+    "endMs": 17820.833333333336,
+    "timestampMs": 7300.0,
+    "confidence": null
+  },
+  {
+    "text": " diz",
+    "startMs": 17833.333333333336,
+    "endMs": 18020.833333333336,
+    "timestampMs": 7593.75,
+    "confidence": null
+  },
+  {
+    "text": " usar",
+    "startMs": 18033.333333333336,
+    "endMs": 18433.333333333336,
+    "timestampMs": 7900.0,
+    "confidence": null
+  },
+  {
+    "text": " tecnologia",
+    "startMs": 18445.833333333336,
+    "endMs": 19183.333333333336,
+    "timestampMs": 8481.25,
+    "confidence": null
+  },
+  {
+    "text": " da",
+    "startMs": 19195.833333333336,
+    "endMs": 19295.833333333336,
+    "timestampMs": 8912.5,
+    "confidence": null
+  },
+  {
+    "text": " SpaceX.",
+    "startMs": 19308.333333333336,
+    "endMs": 20133.333333333336,
+    "timestampMs": 9387.5,
+    "confidence": null
+  },
+  {
+    "text": "Só",
+    "startMs": 20766.666666666668,
+    "endMs": 21091.666666666668,
+    "timestampMs": 362.5,
+    "confidence": null
+  },
+  {
+    "text": " que",
+    "startMs": 21104.166666666668,
+    "endMs": 21216.666666666668,
+    "timestampMs": 593.75,
+    "confidence": null
+  },
+  {
+    "text": " saltar",
+    "startMs": 21229.166666666668,
+    "endMs": 21666.666666666668,
+    "timestampMs": 881.25,
+    "confidence": null
+  },
+  {
+    "text": " não",
+    "startMs": 21679.166666666668,
+    "endMs": 21866.666666666668,
+    "timestampMs": 1206.25,
+    "confidence": null
+  },
+  {
+    "text": " prova",
+    "startMs": 21879.166666666668,
+    "endMs": 22229.166666666668,
+    "timestampMs": 1487.5,
+    "confidence": null
+  },
+  {
+    "text": " voo",
+    "startMs": 22241.666666666668,
+    "endMs": 22441.666666666668,
+    "timestampMs": 1775.0,
+    "confidence": null
+  },
+  {
+    "text": " contínuo.",
+    "startMs": 22454.166666666668,
+    "endMs": 23054.166666666668,
+    "timestampMs": 2187.5,
+    "confidence": null
+  },
+  {
+    "text": " Sustentar",
+    "startMs": 23916.666666666668,
+    "endMs": 24654.166666666668,
+    "timestampMs": 3718.75,
+    "confidence": null
+  },
+  {
+    "text": " o",
+    "startMs": 24666.666666666668,
+    "endMs": 24729.166666666668,
+    "timestampMs": 4131.25,
+    "confidence": null
+  },
+  {
+    "text": " peso",
+    "startMs": 24741.666666666668,
+    "endMs": 25079.166666666668,
+    "timestampMs": 4343.75,
+    "confidence": null
+  },
+  {
+    "text": " exige",
+    "startMs": 25091.666666666668,
+    "endMs": 25441.666666666668,
+    "timestampMs": 4700.0,
+    "confidence": null
+  },
+  {
+    "text": " empuxo.",
+    "startMs": 25454.166666666668,
+    "endMs": 25954.166666666668,
+    "timestampMs": 5137.5,
+    "confidence": null
+  },
+  {
+    "text": " E",
+    "startMs": 26816.666666666668,
+    "endMs": 26941.666666666668,
+    "timestampMs": 6312.5,
+    "confidence": null
+  },
+  {
+    "text": " o",
+    "startMs": 26954.166666666668,
+    "endMs": 27004.166666666668,
+    "timestampMs": 6412.5,
+    "confidence": null
+  },
+  {
+    "text": " gás",
+    "startMs": 27016.666666666668,
+    "endMs": 27266.666666666668,
+    "timestampMs": 6575.0,
+    "confidence": null
+  },
+  {
+    "text": " é",
+    "startMs": 27279.166666666668,
+    "endMs": 27416.666666666668,
+    "timestampMs": 6781.25,
+    "confidence": null
+  },
+  {
+    "text": " limitado.",
+    "startMs": 27429.166666666668,
+    "endMs": 28104.166666666668,
+    "timestampMs": 7200.0,
+    "confidence": null
+  },
+  {
+    "text": "Zero",
+    "startMs": 28766.666666666668,
+    "endMs": 29091.666666666668,
+    "timestampMs": 362.5,
+    "confidence": null
+  },
+  {
+    "text": " a",
+    "startMs": 29104.166666666668,
+    "endMs": 29116.666666666668,
+    "timestampMs": 543.75,
+    "confidence": null
+  },
+  {
+    "text": " noventa",
+    "startMs": 29129.166666666668,
+    "endMs": 29529.166666666668,
+    "timestampMs": 762.5,
+    "confidence": null
+  },
+  {
+    "text": " e",
+    "startMs": 29541.666666666668,
+    "endMs": 29566.666666666668,
+    "timestampMs": 987.5,
+    "confidence": null
+  },
+  {
+    "text": " sete",
+    "startMs": 29579.166666666668,
+    "endMs": 29879.166666666668,
+    "timestampMs": 1162.5,
+    "confidence": null
+  },
+  {
+    "text": " em",
+    "startMs": 29891.666666666668,
+    "endMs": 29954.166666666668,
+    "timestampMs": 1356.25,
+    "confidence": null
+  },
+  {
+    "text": " menos",
+    "startMs": 29966.666666666668,
+    "endMs": 30304.166666666668,
+    "timestampMs": 1568.75,
+    "confidence": null
+  },
+  {
+    "text": " de",
+    "startMs": 30316.666666666668,
+    "endMs": 30391.666666666668,
+    "timestampMs": 1787.5,
+    "confidence": null
+  },
+  {
+    "text": " um",
+    "startMs": 30404.166666666668,
+    "endMs": 30479.166666666668,
+    "timestampMs": 1875.0,
+    "confidence": null
+  },
+  {
+    "text": " segundo?",
+    "startMs": 30491.666666666668,
+    "endMs": 31016.666666666668,
+    "timestampMs": 2187.5,
+    "confidence": null
+  },
+  {
+    "text": " Afirmação",
+    "startMs": 31879.166666666668,
+    "endMs": 32641.666666666668,
+    "timestampMs": 3693.75,
+    "confidence": null
+  },
+  {
+    "text": " da",
+    "startMs": 32654.166666666668,
+    "endMs": 32791.66666666667,
+    "timestampMs": 4156.25,
+    "confidence": null
+  },
+  {
+    "text": " Tesla.",
+    "startMs": 32804.16666666667,
+    "endMs": 33291.66666666667,
+    "timestampMs": 4481.25,
+    "confidence": null
+  },
+  {
+    "text": " Não",
+    "startMs": 34154.16666666667,
+    "endMs": 34404.16666666667,
+    "timestampMs": 5712.5,
+    "confidence": null
+  },
+  {
+    "text": " medimos",
+    "startMs": 34416.66666666667,
+    "endMs": 34816.66666666667,
+    "timestampMs": 6050.0,
+    "confidence": null
+  },
+  {
+    "text": " isso.",
+    "startMs": 34829.16666666667,
+    "endMs": 35291.66666666667,
+    "timestampMs": 6493.75,
+    "confidence": null
+  },
+  {
+    "text": "O",
+    "startMs": 35900.0,
+    "endMs": 36012.5,
+    "timestampMs": 256.25,
+    "confidence": null
+  },
+  {
+    "text": " projeto",
+    "startMs": 36025.0,
+    "endMs": 36625.0,
+    "timestampMs": 625.0,
+    "confidence": null
+  },
+  {
+    "text": " surgiu",
+    "startMs": 36637.5,
+    "endMs": 37137.5,
+    "timestampMs": 1187.5,
+    "confidence": null
+  },
+  {
+    "text": " em",
+    "startMs": 37150.0,
+    "endMs": 37225.0,
+    "timestampMs": 1487.5,
+    "confidence": null
+  },
+  {
+    "text": " dois",
+    "startMs": 37237.5,
+    "endMs": 37475.0,
+    "timestampMs": 1656.25,
+    "confidence": null
+  },
+  {
+    "text": " mil",
+    "startMs": 37487.5,
+    "endMs": 37625.0,
+    "timestampMs": 1856.25,
+    "confidence": null
+  },
+  {
+    "text": " e",
+    "startMs": 37637.5,
+    "endMs": 37687.5,
+    "timestampMs": 1962.5,
+    "confidence": null
+  },
+  {
+    "text": " dezessete.",
+    "startMs": 37700.0,
+    "endMs": 38400.0,
+    "timestampMs": 2350.0,
+    "confidence": null
+  },
+  {
+    "text": " Musk",
+    "startMs": 39262.5,
+    "endMs": 39687.5,
+    "timestampMs": 3775.0,
+    "confidence": null
+  },
+  {
+    "text": " fala",
+    "startMs": 39700.0,
+    "endMs": 39987.5,
+    "timestampMs": 4143.75,
+    "confidence": null
+  },
+  {
+    "text": " em",
+    "startMs": 40000.0,
+    "endMs": 40075.0,
+    "timestampMs": 4337.5,
+    "confidence": null
+  },
+  {
+    "text": " produção",
+    "startMs": 40087.5,
+    "endMs": 40662.5,
+    "timestampMs": 4675.0,
+    "confidence": null
+  },
+  {
+    "text": " para",
+    "startMs": 40675.0,
+    "endMs": 40850.0,
+    "timestampMs": 5062.5,
+    "confidence": null
+  },
+  {
+    "text": " dois",
+    "startMs": 40862.5,
+    "endMs": 41062.5,
+    "timestampMs": 5262.5,
+    "confidence": null
+  },
+  {
+    "text": " mil",
+    "startMs": 41075.0,
+    "endMs": 41225.0,
+    "timestampMs": 5450.0,
+    "confidence": null
+  },
+  {
+    "text": " e",
+    "startMs": 41237.5,
+    "endMs": 41300.0,
+    "timestampMs": 5568.75,
+    "confidence": null
+  },
+  {
+    "text": " vinte",
+    "startMs": 41312.5,
+    "endMs": 41562.5,
+    "timestampMs": 5737.5,
+    "confidence": null
+  },
+  {
+    "text": " e",
+    "startMs": 41575.0,
+    "endMs": 41600.0,
+    "timestampMs": 5887.5,
+    "confidence": null
+  },
+  {
+    "text": " oito.",
+    "startMs": 41612.5,
+    "endMs": 41912.5,
+    "timestampMs": 6062.5,
+    "confidence": null
+  },
+  {
+    "text": "Na",
+    "startMs": 43900.0,
+    "endMs": 44087.5,
+    "timestampMs": 293.75,
+    "confidence": null
+  },
+  {
+    "text": " letra",
+    "startMs": 44100.0,
+    "endMs": 44412.5,
+    "timestampMs": 556.25,
+    "confidence": null
+  },
+  {
+    "text": " miúda,",
+    "startMs": 44425.0,
+    "endMs": 44862.5,
+    "timestampMs": 943.75,
+    "confidence": null
+  },
+  {
+    "text": " a",
+    "startMs": 45062.5,
+    "endMs": 45175.0,
+    "timestampMs": 1418.75,
+    "confidence": null
+  },
+  {
+    "text": " Tesla",
+    "startMs": 45187.5,
+    "endMs": 45537.5,
+    "timestampMs": 1662.5,
+    "confidence": null
+  },
+  {
+    "text": " avisa:",
+    "startMs": 45550.0,
+    "endMs": 45950.0,
+    "timestampMs": 2050.0,
+    "confidence": null
+  },
+  {
+    "text": " versão",
+    "startMs": 46325.0,
+    "endMs": 46775.0,
+    "timestampMs": 2850.0,
+    "confidence": null
+  },
+  {
+    "text": " Rocket,",
+    "startMs": 46787.5,
+    "endMs": 47250.0,
+    "timestampMs": 3318.75,
+    "confidence": null
+  },
+  {
+    "text": " não",
+    "startMs": 47512.5,
+    "endMs": 47725.0,
+    "timestampMs": 3918.75,
+    "confidence": null
+  },
+  {
+    "text": " aprovada",
+    "startMs": 47737.5,
+    "endMs": 48300.0,
+    "timestampMs": 4318.75,
+    "confidence": null
+  },
+  {
+    "text": " para",
+    "startMs": 48312.5,
+    "endMs": 48500.0,
+    "timestampMs": 4706.25,
+    "confidence": null
+  },
+  {
+    "text": " vias",
+    "startMs": 48512.5,
+    "endMs": 48800.0,
+    "timestampMs": 4956.25,
+    "confidence": null
+  },
+  {
+    "text": " públicas.",
+    "startMs": 48812.5,
+    "endMs": 49425.0,
+    "timestampMs": 5418.75,
+    "confidence": null
+  }
+]

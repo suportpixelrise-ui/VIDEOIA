@@ -1,0 +1,37 @@
+{
+  "voice": "pt-BR-AntonioNeural",
+  "text": "Você ainda não usa inteligência artificial?",
+  "rate": "+0%",
+  "words": [
+    {
+      "offset": 1000000,
+      "duration": 3500000,
+      "text": "Você"
+    },
+    {
+      "offset": 4625000,
+      "duration": 3375000,
+      "text": "ainda"
+    },
+    {
+      "offset": 8125000,
+      "duration": 2875000,
+      "text": "não"
+    },
+    {
+      "offset": 11125000,
+      "duration": 1750000,
+      "text": "usa"
+    },
+    {
+      "offset": 13000000,
+      "duration": 6250000,
+      "text": "inteligência"
+    },
+    {
+      "offset": 19375000,
+      "duration": 7000000,
+      "text": "artificial"
+    }
+  ]
+}

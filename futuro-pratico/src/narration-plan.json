@@ -1,0 +1,79 @@
+{
+  "status": "ready",
+  "voice": "pt-BR-AntonioNeural",
+  "fps": 30,
+  "durationInFrames": 664,
+  "sceneDurations": [
+    124,
+    126,
+    108,
+    114,
+    192
+  ],
+  "voiceWindows": [
+    [
+      5,
+      111
+    ],
+    [
+      129,
+      226
+    ],
+    [
+      255,
+      330
+    ],
+    [
+      363,
+      453
+    ],
+    [
+      477,
+      549
+    ],
+    [
+      565,
+      649
+    ]
+  ],
+  "clips": [
+    {
+      "src": "narracao/frase-01.mp3",
+      "from": 5,
+      "durationInFrames": 106,
+      "text": "Você ainda não usa inteligência artificial?"
+    },
+    {
+      "src": "narracao/frase-02.mp3",
+      "from": 129,
+      "durationInFrames": 97,
+      "text": "Com ela, você pode criar sites,"
+    },
+    {
+      "src": "narracao/frase-03.mp3",
+      "from": 255,
+      "durationInFrames": 75,
+      "text": "automatizar tarefas"
+    },
+    {
+      "src": "narracao/frase-04.mp3",
+      "from": 363,
+      "durationInFrames": 90,
+      "text": "e produzir conteúdos incríveis."
+    },
+    {
+      "src": "narracao/frase-05.mp3",
+      "from": 477,
+      "durationInFrames": 72,
+      "text": "O futuro já começou."
+    },
+    {
+      "src": "narracao/frase-06.mp3",
+      "from": 565,
+      "durationInFrames": 84,
+      "text": "E você, vai ficar de fora?"
+    }
+  ],
+  "closingQuestionFrame": 93,
+  "note": "Native voice speed. Pauses inserted between phrases; no atempo or playback speed adjustment."
+}
